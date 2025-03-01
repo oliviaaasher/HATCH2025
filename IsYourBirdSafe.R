@@ -26,6 +26,8 @@ ui <- fluidPage(
   sidebarLayout(
     sidebarPanel(
       h4("Statistical Analysis"),
+      selectInput("state", "Select State:", choices = unique(geo_data$STATE_NAME), selected = "Georgia"),
+      uiOutput("county_select"),
       verbatimTextOutput("correlation"),
       verbatimTextOutput("chi_square")
     ),
@@ -34,13 +36,28 @@ ui <- fluidPage(
 )
 
 # Server
-server <- function(input, output) {
+server <- function(input, output, session) {
   pal <- colorNumeric(palette = "viridis", domain = geo_data$Flock.Size)
   
+  # Update county choices based on selected state
+  output$county_select <- renderUI({
+    req(input$state)
+    counties_filtered <- geo_data %>% filter(STATE_NAME == input$state)
+    selectInput("county", "Select County:", choices = unique(counties_filtered$NAME), selected = unique(counties_filtered$NAME)[1])
+  })
+  
+  # Reactive data filtered by selected state and county
+  filtered_data <- reactive({
+    req(input$state, input$county)
+    geo_data %>% filter(STATE_NAME == input$state, NAME == input$county)
+  })
+  
   output$map <- renderLeaflet({
-    leaflet(geo_data) %>%
+    data <- filtered_data()
+    leaflet(data) %>%
       addTiles() %>%
-      setView(lng = -98.5795, lat = 39.8283, zoom = 4) %>%
+      setView(lng = mean(st_coordinates(st_centroid(data))[,1]), 
+              lat = mean(st_coordinates(st_centroid(data))[,2]), zoom = 8) %>%
       addPolygons(color = ~pal(Flock.Size), stroke = 0.1, opacity = 0.8,
                   popup = ~paste0("<strong>Outbreak number: </strong>", Outbreaks, 
                                  "<br><strong>Flock Type: </strong>", Flock.Type, 
@@ -49,11 +66,13 @@ server <- function(input, output) {
   })
   
   output$correlation <- renderText({
-    paste("Pearson correlation: ", round(cor(geo_data$Flock.Size, geo_data$Outbreaks, method = "pearson"), 3))
+    data <- filtered_data()
+    paste("Pearson correlation: ", round(cor(data$Flock.Size, data$Outbreaks, method = "pearson"), 3))
   })
   
   output$chi_square <- renderPrint({
-    chisq.test(table(geo_data$Flock.Size, geo_data$Outbreaks))
+    data <- filtered_data()
+    chisq.test(table(data$Flock.Size, data$Outbreaks))
   })
 }
 

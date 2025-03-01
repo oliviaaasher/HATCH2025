@@ -8,6 +8,7 @@ library(htmltools) # Add html popups
 # Load CSV
 directory <- "data/"
 birds_poultry <- read.csv(paste0(directory, "bird_flu_poultry.csv"))
+
 birds_wildbirds <- read.csv(paste0(directory, "bird_flu_wildbirds.csv"))
 
 # Get US county shapefile from `tigris`
@@ -24,7 +25,12 @@ geo_data <- st_transform(geo_data, crs = '+proj=longlat +datum=WGS84')
 
 # Continuous palette
 pal <- colorNumeric(palette = "viridis", domain = geo_data$Flock.Size)
-p_popup <- paste0("<strong>Outbreak number: </strong>", geo_data$Outbreaks, "<br><strong>Flock Type: </strong>", geo_data$Flock.Type, "<br><strong>Outbreak Date: </strong>",geo_data$Outbreak.Date)
+p_popup <- paste0("<strong>Outbreak number: </strong>", 
+                  geo_data$Outbreaks, 
+                  "<br><strong>Flock Type: </strong>", 
+                  geo_data$Flock.Type, 
+                  "<br><strong>Outbreak Date: </strong>",
+                  geo_data$Outbreak.Date)
 
 map <- leaflet() %>%
        addTiles() %>%
@@ -32,3 +38,15 @@ map <- leaflet() %>%
        addPolygons(data = geo_data, color = pal(geo_data$Flock.Size), stroke = 0.1, opacity = 0.8, popup = p_popup)
 
 map %>% addLegend('bottomleft', pal = pal, values = geo_data$Flock.Size)
+map 
+
+
+
+# Statistical Analysis ----
+# Calculate Pearson correlation between Flock Size and Outbreak
+pearson_correlation <- cor(geo_data$Flock.Size, geo_data$Outbreaks, method = "pearson")
+
+contingency_table <- table(geo_data$Flock.Size, geo_data$Outbreaks)
+
+# Perform Chi-Square test
+chi_square_test <- chisq.test(contingency_table)

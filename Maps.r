@@ -27,8 +27,17 @@ pal <- colorNumeric(palette = "viridis", domain = geo_data$Flock.Size)
 p_popup <- paste0("<strong>Outbreak number: </strong>", geo_data$Outbreaks, "<br><strong>Flock Type: </strong>", geo_data$Flock.Type, "<br><strong>Outbreak Date: </strong>",geo_data$Outbreak.Date)
 
 map <- leaflet() %>%
-       addTiles() %>%
-       setView(lng = -98.5795, lat = 39.8283, zoom = 4) %>%
-       addPolygons(data = geo_data, color = pal(geo_data$Flock.Size), stroke = 0.1, opacity = 0.8, popup = p_popup)
+  addTiles() %>%
+  setView(lng = -98.5795, lat = 39.8283, zoom = 4) %>%
+  addPolygons(weight = 1,
+              data = geo_data,
+              color = pal(geo_data$Flock.Size),
+              stroke = 0.1,
+              opacity = 0.8,
+              popup = p_popup,
+              highlight = highlightOptions(weight = 2,
+                                           color = "blue",
+                                           bringToFront = TRUE)) %>%
+  addLegend("bottomleft", pal = pal, values = geo_data$Flock.Size)
 
-map %>% addLegend('bottomleft', pal = pal, values = geo_data$Flock.Size)
+

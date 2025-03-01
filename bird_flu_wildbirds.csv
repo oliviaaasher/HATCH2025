@@ -1,0 +1,1223 @@
+FullGeoName,FIPS,State,County,Date Detected,Strain/Type/Source,States,Counties,Totals
+"VA, Matthews",51115,Virginia,Matthews,1/6/25,EA/AM H5N1 -  - ,1,1,14
+"AL, Baldwin",01003,Alabama,Baldwin,2/3/25,EA H5 -  - ,1,1,6
+"AL, Barbour",01005,Alabama,Barbour,1/2/25,EA H5 -  - ,0,1,12
+"AL, Chambers",01017,Alabama,Chambers,11/21/22,EA/AM H5N1 -  - ,0,1,1
+"AL, Clarke",01025,Alabama,Clarke,1/26/23,EA/AM H5N1 -  - ,0,1,1
+"AL, Cullman",01043,Alabama,Cullman,1/4/23,EA/AM H5N1 -  - ,0,1,2
+"AL, Elmore",01051,Alabama,Elmore,11/10/22,EA H5N1 -  - ,0,1,5
+"AL, Jackson",01071,Alabama,Jackson,12/22/22,EA/AM H5N1 -  - ,0,1,11
+"AL, Jefferson",01073,Alabama,Jefferson,8/29/24,EA/AM H5N1 -  - ,0,1,1
+"AL, Lamar",01075,Alabama,Lamar,12/8/22,EA H5N1 -  - ,0,1,2
+"AL, Lauderdale",01077,Alabama,Lauderdale,12/20/22,EA H5N1 -  - ,0,1,1
+"AL, Lee",01081,Alabama,Lee,2/6/24,EA H5N1 -  - ,0,1,1
+"AL, Limestone",01083,Alabama,Limestone,1/24/25,EA H5 -  - ,0,1,22
+"AL, Madison",01089,Alabama,Madison,4/13/23,EA H5N1 -  - ,0,1,1
+"AL, Marion",01093,Alabama,Marion,1/4/23,EA/AM H5N1 -  - ,0,1,1
+"AL, Marshall",01095,Alabama,Marshall,8/29/24,EA H5N1 -  - ,0,1,2
+"AL, Montgomery",01101,Alabama,Montgomery,11/7/22,EA/AM H5N1 -  - ,0,1,16
+"AL, Morgan",01103,Alabama,Morgan,1/4/23,EA/AM H5N1 -  - ,0,1,7
+"AL, Shelby",01117,Alabama,Shelby,1/3/23,EA/AM H5N1 -  - ,0,1,1
+"AL, Sumter",01119,Alabama,Sumter,12/20/22,EA/AM H5N1 -  - ,0,1,2
+"AL, Tallapoosa",01123,Alabama,Tallapoosa,12/20/22,EA H5N1 -  - ,0,1,2
+"AL, Walker",01127,Alabama,Walker,9/3/24,EA/AM H5N1 -  - ,0,1,1
+"AK, Aleutians East Borough",02013,Alaska,Aleutians East,5/15/23,EA/AM H5N1 -  - ,1,1,67
+"AK, Aleutians West Ca",02016,Alaska,Aleutians West,9/4/24,EA H5N1 -  - ,0,1,18
+"AK, Anchorage Muny",02020,Alaska,Anchorage,9/4/24,EA H5N1 -  - ,0,1,24
+"AK, Bethel Ca",02050,Alaska,Bethel,6/14/22,EA H5N1 -  - ,0,1,13
+"AK, Chugach",02063,Alaska,Chugach,6/17/22,EA/AM H5N1 -  - ,0,1,1
+"AK, Dillingham Ca",02070,Alaska,Dillingham,9/15/23,EA H5N1 -  - ,0,1,18
+"AK, Fairbanks North Star Borough",02090,Alaska,Fairbanks North Star,1/20/23,EA H5N1 -  - ,0,1,4
+"AK, Haines Borough",02100,Alaska,Haines,11/14/24,EA/AM H5N1 -  - ,0,1,2
+"AK, Juneau Cty&bor",02110,Alaska,Juneau,10/30/24,EA H5 -  - ,0,1,35
+"AK, Kenai Peninsula Borough",02122,Alaska,Kenai Peninsula,8/5/22,EA H5N1 -  - ,0,1,6
+"AK, Ketchikan Gateway Borough",02130,Alaska,Ketchikan Gateway,6/12/24,EA H5N1 -  - ,0,1,2
+"AK, Kusilvak Ca",02158,Alaska,Kusilvak,9/15/22,EA H5N1 mixed -  - ,0,1,8
+"AK, Matanuska-Susitna Borough",02170,Alaska,Matanuska-Susitna,11/16/22,EA H5N1 -  - ,0,1,153
+"AK, Nome Ca",02180,Alaska,Nome,8/18/22,EA H5N1 -  - ,0,1,3
+"AK, North Slope Borough",02185,Alaska,North Slope,8/3/22,EA/AM H5N1 -  - ,0,1,21
+"AK, Northwest Arctic Borough",02188,Alaska,Northwest Arctic,7/18/22,EA/AM H5N1 -  - ,0,1,1
+"AK, Sitka Cty&bor",02220,Alaska,Sitka,6/24/22,EA H5 -  - ,0,1,23
+"AK, Southeast Fairbanks Ca",02240,Alaska,Southeast Fairbanks,9/20/22,EA/AM H5N1 -  - ,0,1,13
+"AK, Valdez-Cordova Ca",02261,Alaska,Valdez-Cordova,6/8/22,EA/AM H5N1 -  - ,0,1,2
+"AK, Yukon-Koyukuk Ca",02290,Alaska,Yukon-Koyukuk,9/20/22,EA/AM H5N1 -  - ,0,1,3
+"AZ, Coconino",04005,Arizona,Coconino,4/24/23,EA H5N1 -  - ,1,1,20
+"AZ, La Paz",04012,Arizona,La Paz,1/13/25,EA H5 -  - ,0,1,55
+"AZ, Maricopa",04013,Arizona,Maricopa,12/1/22,EA/AM H5N1 -  - ,0,1,39
+"AZ, Mohave",04015,Arizona,Mohave,2/6/25,EA H5 -  - ,0,1,12
+"AZ, Pima",04019,Arizona,Pima,11/2/23,EA H5N1 -  - ,0,1,4
+"AZ, Pinal",04021,Arizona,Pinal,12/13/24,EA H5 -  - ,0,1,9
+"AZ, Yuma",04027,Arizona,Yuma,9/17/24,EA H5N1 -  - ,0,1,14
+"AR, Arkansas",05001,Arkansas,Arkansas,12/23/24,EA/AM H5N1 -  - ,1,1,5
+"AR, Baxter",05005,Arkansas,Baxter,12/16/22,EA/AM H5N1 -  - ,0,1,1
+"AR, Benton",05007,Arkansas,Benton,11/22/23,EA H5N1 -  - ,0,1,2
+"AR, Chicot",05017,Arkansas,Chicot,12/16/22,EA H5N1 -  - ,0,1,1
+"AR, Clark",05019,Arkansas,Clark,5/30/23,EA H5N1 -  - ,0,1,1
+"AR, Cleburne",05023,Arkansas,Cleburne,12/16/22,EA H5N1 -  - ,0,1,1
+"AR, Conway",05029,Arkansas,Conway,12/9/22,EA H5N1 -  - ,0,1,1
+"AR, Craighead",05031,Arkansas,Craighead,1/18/23,EA/AM H5N1 -  - ,0,1,6
+"AR, Crawford",05033,Arkansas,Crawford,10/13/23,EA/AM H5N1 -  - ,0,1,1
+"AR, Cross",05037,Arkansas,Cross,12/9/22,EA H5N1 -  - ,0,1,2
+"AR, Desha",05041,Arkansas,Desha,12/9/22,EA H5N1 -  - ,0,1,3
+"AR, Drew",05043,Arkansas,Drew,12/1/22,EA H5N1 -  - ,0,1,1
+"AR, Grant",05053,Arkansas,Grant,1/18/23,EA/AM H5N1 -  - ,0,1,2
+"AR, Greene",05055,Arkansas,Greene,1/18/23,EA H5N1 -  - ,0,1,5
+"AR, Jackson",05067,Arkansas,Jackson,12/15/22,EA H5N1 -  - ,0,1,1
+"AR, Jefferson",05069,Arkansas,Jefferson,11/21/22,EA H5N1 -  - ,0,1,2
+"AR, Johnson",05071,Arkansas,Johnson,12/20/22,EA H5N1 -  - ,0,1,3
+"AR, Lawrence",05075,Arkansas,Lawrence,12/1/22,EA/AM H5N1 -  - ,0,1,1
+"AR, Lonoke",05085,Arkansas,Lonoke,12/5/22,EA H5N1 -  - ,0,1,11
+"AR, Monroe",05095,Arkansas,Monroe,12/18/23,EA H5N1 -  - ,0,1,2
+"AR, Perry",05105,Arkansas,Perry,1/18/23,EA H5N1 -  - ,0,1,2
+"AR, Poinsett",05111,Arkansas,Poinsett,12/16/22,EA H5N1 -  - ,0,1,4
+"AR, Pope",05115,Arkansas,Pope,12/9/22,EA H5N1 -  - ,0,1,1
+"AR, Prairie",05117,Arkansas,Prairie,12/16/24,EA H5N1 -  - ,0,1,39
+"AR, Pulaski",05119,Arkansas,Pulaski,10/31/22,EA/AM H5N1 -  - ,0,1,2
+"AR, Randolph",05121,Arkansas,Randolph,5/30/23,EA H5N1 -  - ,0,1,1
+"AR, Saline",05125,Arkansas,Saline,12/16/22,EA H5N1 -  - ,0,1,1
+"AR, Union",05139,Arkansas,Union,1/18/23,EA/AM H5N1 -  - ,0,1,1
+"AR, White",05145,Arkansas,White,1/18/23,EA/AM H5N1 -  - ,0,1,1
+"AR, Woodruff",05147,Arkansas,Woodruff,5/30/23,EA/AM H5N1 -  - ,0,1,1
+"CA, Alameda",06001,California,Alameda,9/19/24,EA/AM H5N1 -  - ,1,1,29
+"CA, Amador",06005,California,Amador,12/29/22,EA/AM H5N1 -  - ,0,1,3
+"CA, Butte",06007,California,Butte,8/5/22,EA H5N1 -  - ,0,1,14
+"CA, Colusa",06011,California,Colusa,1/25/24,EA/AM H5 mixed -  - ,0,1,11
+"CA, Contra Costa",06013,California,Contra Costa,2/2/24,EA H5N1 -  - ,0,1,18
+"CA, Del Norte",06015,California,Del Norte,4/3/23,EA H5N1 -  - ,0,1,2
+"CA, El Dorado",06017,California,El Dorado,9/30/22,EA H5N1 -  - ,0,1,7
+"CA, Fresno",06019,California,Fresno,1/12/23,EA H5N1 -  - ,0,1,47
+"CA, Glenn",06021,California,Glenn,11/28/23,EA/AM H5N1 -  - ,0,1,24
+"CA, Humboldt",06023,California,Humboldt,1/13/23,EA H5N1 -  - ,0,1,9
+"CA, Imperial",06025,California,Imperial,2/10/23,EA/AM H5N1 -  - ,0,1,7
+"CA, Inyo",06027,California,Inyo,12/13/23,EA/AM H5N1 -  - ,0,1,1
+"CA, Kern",06029,California,Kern,12/12/22,EA H5N1 -  - ,0,1,14
+"CA, Lassen",06035,California,Lassen,2/24/23,EA/AM H5N1 -  - ,0,1,7
+"CA, Los Angeles",06037,California,Los Angeles,12/23/24,EA H5 -  - ,0,1,42
+"CA, Marin",06041,California,Marin,1/30/24,EA/AM H5N1 -  - ,0,1,15
+"CA, Mariposa",06043,California,Mariposa,4/9/24,EA/AM H5N1 -  - ,0,1,1
+"CA, Mendocino",06045,California,Mendocino,1/12/23,EA/AM H5N1 -  - ,0,1,5
+"CA, Merced",06047,California,Merced,1/30/24,EA/AM H5N1 -  - ,0,1,28
+"CA, Monterey",06053,California,Monterey,10/25/22,EA/AM H5N1 -  - ,0,1,27
+"CA, Napa",06055,California,Napa,10/19/22,EA/AM H5N1 -  - ,0,1,7
+"CA, Nevada",06057,California,Nevada,9/20/24,EA H5N1 -  - ,0,1,1
+"CA, Orange",06059,California,Orange,10/19/22,EA H5N1 -  - ,0,1,13
+"CA, Placer",06061,California,Placer,1/9/23,EA H5N1 -  - ,0,1,4
+"CA, Plumas",06063,California,Plumas,8/5/22,EA/AM H5N1 -  - ,0,1,2
+"CA, Riverside",06065,California,Riverside,10/25/22,EA H5 -  - ,0,1,6
+"CA, Sacramento",06067,California,Sacramento,2/10/23,EA/AM H5N1 -  - ,0,1,15
+"CA, San Benito",06069,California,San Benito,10/19/22,EA/AM H5N1 -  - ,0,1,1
+"CA, San Bernardino",06071,California,San Bernardino,11/9/22,EA H5N1 -  - ,0,1,2
+"CA, San Diego",06073,California,San Diego,1/9/23,EA/AM H5N1 -  - ,0,1,35
+"CA, San Francisco",06075,California,San Francisco,9/16/22,EA/AM H5N1 -  - ,0,1,13
+"CA, San Joaquin",06077,California,San Joaquin,1/13/23,EA H5N1 -  - ,0,1,12
+"CA, San Luis Obispo",06079,California,San Luis Obispo,12/13/22,EA/AM H5N1 -  - ,0,1,22
+"CA, San Mateo",06081,California,San Mateo,1/26/23,EA H5N1 -  - ,0,1,20
+"CA, Santa Barbara",06083,California,Santa Barbara,2/10/23,EA/AM H5N1 -  - ,0,1,3
+"CA, Santa Clara",06085,California,Santa Clara,7/25/24,EA/AM H5N1 -  - ,0,1,28
+"CA, Santa Cruz",06087,California,Santa Cruz,4/20/23,EA H5N1 -  - ,0,1,5
+"CA, Shasta",06089,California,Shasta,1/26/23,EA H5N1 -  - ,0,1,2
+"CA, Siskiyou",06093,California,Siskiyou,1/25/24,EA/AM H5N1 -  - ,0,1,17
+"CA, Solano",06095,California,Solano,3/1/24,EA/AM H5N1 -  - ,0,1,32
+"CA, Sonoma",06097,California,Sonoma,7/28/22,EA/AM H5N1 -  - ,0,1,23
+"CA, Stanislaus",06099,California,Stanislaus,8/17/22,EA H5N1 -  - ,0,1,7
+"CA, Sutter",06101,California,Sutter,1/13/23,EA/AM H5N1 -  - ,0,1,3
+"CA, Trinity",06105,California,Trinity,9/8/22,EA H5N1 -  - ,0,1,1
+"CA, Tulare",06107,California,Tulare,10/3/24,EA H5N1 -  - ,0,1,12
+"CA, Ventura",06111,California,Ventura,1/17/23,EA/AM H5N1 -  - ,0,1,9
+"CA, Yolo",06113,California,Yolo,2/9/24,EA H5N1 -  - ,0,1,115
+"CA, Yuba",06115,California,Yuba,3/2/23,EA/AM H5N1 -  - ,0,1,5
+"CO, Adams",08001,Colorado,Adams,1/25/24,EA H5 -  - ,1,1,10
+"CO, Alamosa",08003,Colorado,Alamosa,10/12/23,EA/AM H5N1 -  - ,0,1,19
+"CO, Arapahoe",08005,Colorado,Arapahoe,3/9/23,EA H5N1 -  - ,0,1,6
+"CO, Baca",08009,Colorado,Baca,12/16/22,EA/AM H5N1 -  - ,0,1,1
+"CO, Bent",08011,Colorado,Bent,8/28/24,EA/AM H5N1 -  - ,0,1,2
+"CO, Boulder",08013,Colorado,Boulder,9/30/22,EA/AM H5N1 -  - ,0,1,40
+"CO, Broomfield",08014,Colorado,Broomfield,12/20/22,EA/AM H5N1 -  - ,0,1,2
+"CO, Crowley",08025,Colorado,Crowley,2/3/23,EA/AM H5N1 -  - ,0,1,1
+"CO, Delta",08029,Colorado,Delta,1/19/23,EA H5N1 -  - ,0,1,1
+"CO, Denver",08031,Colorado,Denver,12/2/23,EA/AM H5N1 -  - ,0,1,41
+"CO, Douglas",08035,Colorado,Douglas,1/4/23,EA H5N1 -  - ,0,1,11
+"CO, El Paso",08041,Colorado,El Paso,4/6/22,EA H5N1 -  - ,0,1,9
+"CO, Grand",08049,Colorado,Grand,5/4/22,EA H5N1 -  - ,0,1,2
+"CO, Gunnison",08051,Colorado,Gunnison,11/14/23,EA H5N1 -  - ,0,1,1
+"CO, Jackson",08057,Colorado,Jackson,5/12/22,EA H5N1 -  - ,0,1,2
+"CO, Jefferson",08059,Colorado,Jefferson,5/23/22,EA H5N1 -  - ,0,1,6
+"CO, Kiowa",08061,Colorado,Kiowa,1/19/23,EA H5N1 -  - ,0,1,1
+"CO, La Plata",08067,Colorado,La Plata,10/28/22,EA H5N1 -  - ,0,1,1
+"CO, Larimer",08069,Colorado,Larimer,2/8/23,EA H5N1 -  - ,0,1,78
+"CO, Las Animas",08071,Colorado,Las Animas,2/15/23,EA H5N1 -  - ,0,1,3
+"CO, Logan",08075,Colorado,Logan,1/18/23,EA H5N1 -  - ,0,1,17
+"CO, Mesa",08077,Colorado,Mesa,5/18/22,EA H5N1 -  - ,0,1,7
+"CO, Moffat",08081,Colorado,Moffat,3/13/23,EA H5N1 -  - ,0,1,2
+"CO, Montezuma",08083,Colorado,Montezuma,6/16/22,EA/AM H5N1 -  - ,0,1,1
+"CO, Montrose",08085,Colorado,Montrose,2/10/23,EA H5N1 -  - ,0,1,2
+"CO, Morgan",08087,Colorado,Morgan,4/1/22,EA/AM H5N1 -  - ,0,1,7
+"CO, Otero",08089,Colorado,Otero,12/16/22,EA/AM H5N1 -  - ,0,1,1
+"CO, Prowers",08099,Colorado,Prowers,12/8/22,EA H5N1 -  - ,0,1,6
+"CO, Pueblo",08101,Colorado,Pueblo,1/10/23,EA H5N1 -  - ,0,1,4
+"CO, Rio Blanco",08103,Colorado,Rio Blanco,8/28/24,EA H5N1 -  - ,0,1,1
+"CO, Rio Grande",08105,Colorado,Rio Grande,12/15/22,EA/AM H5N1 -  - ,0,1,6
+"CO, Routt",08107,Colorado,Routt,4/26/22,EA H5 -  - ,0,1,1
+"CO, Saguache",08109,Colorado,Saguache,10/16/23,EA/AM H5N1 -  - ,0,1,9
+"CO, Sedgwick",08115,Colorado,Sedgwick,12/10/24,EA H5 -  - ,0,1,11
+"CO, Weld",08123,Colorado,Weld,7/22/24,EA H5N1 -  - ,0,1,64
+"CO, Yuma",08125,Colorado,Yuma,1/18/23,EA H5N1 -  - ,0,1,2
+"CT, Fairfield",09001,Connecticut,Fairfield,1/31/25,EA H5 -  - ,1,1,1
+"CT, Hartford",09003,Connecticut,Hartford,9/6/23,EA/AM H5N1 -  - ,0,1,10
+"CT, Litchfield",09005,Connecticut,Litchfield,3/30/23,EA/AM H5N1 -  - ,0,1,1
+"CT, Middlesex",09007,Connecticut,Middlesex,2/16/22,EA H5 -  - ,0,1,27
+"CT, New Haven",09009,Connecticut,New Haven,2/23/22,EA H5N1 -  - ,0,1,20
+"CT, New London",09011,Connecticut,New London,2/15/23,EA/AM H5N1 -  - ,0,1,8
+"CT, Tolland",09013,Connecticut,Tolland,10/26/22,EA/AM H5N1 -  - ,0,1,1
+"DE, Kent",10001,Delaware,Kent,1/27/25,EA H5N1 -  - ,1,1,21
+"DE, New Castle",10003,Delaware,New Castle,1/5/24,EA H5N1 -  - ,0,1,2
+"DC, Washington",11001,DC,District of Columbia,6/3/22,EA/AM H5N1 -  - ,1,1,3
+"FL, Alachua",12001,Florida,Alachua,9/15/22,EA/AM H5N1 -  - ,1,1,8
+"FL, Brevard",12009,Florida,Brevard,11/5/24,EA/AM H5N1 -  - ,0,1,380
+"FL, Broward",12011,Florida,Broward,11/21/22,EA/AM H5N1 -  - ,0,1,9
+"FL, Charlotte",12015,Florida,Charlotte,3/18/22,EA/AM H5N1 -  - ,0,1,4
+"FL, Citrus",12017,Florida,Citrus,4/8/22,EA/AM H5N1 -  - ,0,1,6
+"FL, Clay",12019,Florida,Clay,4/12/22,EA/AM H5N1 -  - ,0,1,4
+"FL, Collier",12021,Florida,Collier,4/28/22,EA/AM H5N1 -  - ,0,1,5
+"FL, Columbia",12023,Florida,Columbia,5/9/22,EA/AM H5N1 -  - ,0,1,2
+"FL, Dixie",12029,Florida,Dixie,3/27/22,EA/AM H5N1 -  - ,0,1,6
+"FL, Duval",12031,Florida,Duval,4/26/22,EA H5N1 -  - ,0,1,25
+"FL, Flagler",12035,Florida,Flagler,9/15/22,EA/AM H5N1 -  - ,0,1,2
+"FL, Hillsborough",12057,Florida,Hillsborough,5/27/22,EA H5N1 -  - ,0,1,6
+"FL, Indian River",12061,Florida,Indian River,1/27/23,EA/AM H5N1 -  - ,0,1,5
+"FL, Jackson",12063,Florida,Jackson,11/10/22,EA/AM H5N1 -  - ,0,1,2
+"FL, Lake",12069,Florida,Lake,12/10/24,EA H5N1 -  - ,0,1,12
+"FL, Lee",12071,Florida,Lee,1/30/24,EA H5N1 -  - ,0,1,2
+"FL, Leon",12073,Florida,Leon,2/4/25,EA H5N1 -  - ,0,1,8
+"FL, Levy",12075,Florida,Levy,12/20/22,EA/AM H5N1 -  - ,0,1,2
+"FL, Madison",12079,Florida,Madison,10/27/22,EA/AM H5N1 -  - ,0,1,1
+"FL, Manatee",12081,Florida,Manatee,4/28/22,EA/AM H5N1 -  - ,0,1,2
+"FL, Marion",12083,Florida,Marion,8/30/24,EA/AM H5N1 -  - ,0,1,3
+"FL, Martin",12085,Florida,Martin,5/5/22,EA/AM H5N1 -  - ,0,1,2
+"FL, Miami-Dade",12086,Florida,Miami-Dade,4/12/22,EA H5 -  - ,0,1,2
+"FL, Monroe",12087,Florida,Monroe,1/25/24,EA H5N1 -  - ,0,1,1
+"FL, Okaloosa",12091,Florida,Okaloosa,5/5/22,EA H5 -  - ,0,1,1
+"FL, Orange",12095,Florida,Orange,8/15/22,EA H5N1 -  - ,0,1,51
+"FL, Osceola",12097,Florida,Osceola,10/19/22,EA H5N1 -  - ,0,1,4
+"FL, Palm Beach",12099,Florida,Palm Beach,11/3/22,EA/AM H5N1 -  - ,0,1,40
+"FL, Pasco",12101,Florida,Pasco,4/12/22,EA/AM H5N1 -  - ,0,1,3
+"FL, Pinellas",12103,Florida,Pinellas,6/29/22,EA/AM H5N1 -  - ,0,1,6
+"FL, Polk",12105,Florida,Polk,3/18/22,EA H5N1 -  - ,0,1,4
+"FL, Putnam",12107,Florida,Putnam,9/8/22,EA H5N1 -  - ,0,1,1
+"FL, St Johns",12109,Florida,St. Johns,12/19/24,EA H5 -  - ,0,1,83
+"FL, Sarasota",12115,Florida,Sarasota,11/21/22,EA/AM H5N1 -  - ,0,1,2
+"FL, Seminole",12117,Florida,Seminole,8/1/22,EA H5N1 -  - ,0,1,7
+"FL, Sumter",12119,Florida,Sumter,4/26/22,EA H5N1 -  - ,0,1,3
+"FL, Suwannee",12121,Florida,Suwannee,5/12/22,EA/AM H5N1 -  - ,0,1,4
+"FL, Volusia",12127,Florida,Volusia,11/26/23,EA H5N1 -  - ,0,1,25
+"FL, Wakulla",12129,Florida,Wakulla,11/10/22,EA/AM H5N1 -  - ,0,1,2
+"GA, Barrow",13013,Georgia,Barrow,11/28/22,EA/AM H5N1 -  - ,1,1,2
+"GA, Butts",13035,Georgia,Butts,9/15/22,EA/AM H5N1 -  - ,0,1,2
+"GA, Calhoun",13037,Georgia,Calhoun,4/13/23,EA/AM H5N1 -  - ,0,1,1
+"GA, Camden",13039,Georgia,Camden,3/4/22,EA/AM H5N1 -  - ,0,1,5
+"GA, Chatham",13051,Georgia,Chatham,3/28/22,EA/AM H5N1 -  - ,0,1,2
+"GA, Cherokee",13057,Georgia,Cherokee,9/30/22,EA/AM H5N1 -  - ,0,1,1
+"GA, Clarke",13059,Georgia,Clarke,12/2/23,EA H5N1 -  - ,0,1,5
+"GA, Clayton",13063,Georgia,Clayton,9/15/22,EA/AM H5N1 -  - ,0,1,4
+"GA, Columbia",13073,Georgia,Columbia,9/15/22,EA/AM H5N1 -  - ,0,1,1
+"GA, De Kalb",13089,Georgia,DeKalb,9/29/22,EA H5N1 -  - ,0,1,4
+"GA, Dougherty",13095,Georgia,Dougherty,7/8/22,EA/AM H5N1 -  - ,0,1,1
+"GA, Emanuel",13107,Georgia,Emanuel,1/25/24,EA/AM H5N1 -  - ,0,1,1
+"GA, Forsyth",13117,Georgia,Forsyth,9/9/22,EA H5N1 -  - ,0,1,4
+"GA, Franklin",13119,Georgia,Franklin,11/28/22,EA/AM H5N1 -  - ,0,1,1
+"GA, Glynn",13127,Georgia,Glynn,3/4/22,EA/AM H5N1 -  - ,0,1,2
+"GA, Greene",13133,Georgia,Greene,11/17/22,EA H5N1 -  - ,0,1,2
+"GA, Gwinnett",13135,Georgia,Gwinnett,10/17/22,EA H5 -  - ,0,1,2
+"GA, Harris",13145,Georgia,Harris,10/27/23,EA/AM H5N1 -  - ,0,1,2
+"GA, Hart",13147,Georgia,Hart,10/11/22,EA H5N1 -  - ,0,1,5
+"GA, Henry",13151,Georgia,Henry,8/26/22,EA H5N1 -  - ,0,1,6
+"GA, Houston",13153,Georgia,Houston,11/17/22,EA H5N1 -  - ,0,1,1
+"GA, Jasper",13159,Georgia,Jasper,9/9/22,EA H5N1 -  - ,0,1,3
+"GA, Jenkins",13165,Georgia,Jenkins,10/17/22,EA H5 -  - ,0,1,4
+"GA, Lamar",13171,Georgia,Lamar,10/27/22,EA/AM H5N1 -  - ,0,1,1
+"GA, Lee",13177,Georgia,Lee,10/27/22,EA/AM H5N1 -  - ,0,1,3
+"GA, Liberty",13179,Georgia,Liberty,3/28/22,EA/AM H5N1 -  - ,0,1,1
+"GA, Mcduffie",13189,Georgia,McDuffie,11/8/22,EA H5N1 -  - ,0,1,1
+"GA, Mcintosh",13191,Georgia,Mcintosh,1/4/23,EA H5N1 -  - ,0,1,32
+"GA, Newton",13217,Georgia,Newton,11/17/22,EA H5N1 -  - ,0,1,5
+"GA, Oconee",13219,Georgia,Oconee,10/17/22,EA H5 -  - ,0,1,1
+"GA, Peach",13225,Georgia,Peach,10/17/22,EA H5 -  - ,0,1,2
+"GA, Putnam",13237,Georgia,Putnam,2/6/24,EA H5N1 -  - ,0,1,1
+"GA, Rockdale",13247,Georgia,Rockdale,11/17/22,EA H5N1 -  - ,0,1,1
+"GA, Seminole",13253,Georgia,Seminole,12/17/24,EA H5N1 -  - ,0,1,11
+"GA, Spalding",13255,Georgia,Spalding,9/9/22,EA H5N1 -  - ,0,1,2
+"GA, Stewart",13259,Georgia,Stewart,12/19/24,EA H5 -  - ,0,1,8
+"GA, Tattnall",13267,Georgia,Tattnall,8/12/22,EA H5N1 -  - ,0,1,1
+"GA, Toombs",13279,Georgia,Toombs,6/7/22,EA H5N1 -  - ,0,1,3
+"GA, Troup",13285,Georgia,Troup,12/10/24,EA H5N1 -  - ,0,1,1
+"GA, Wilkes",13317,Georgia,Wilkes,10/27/22,EA/AM H5N1 -  - ,0,1,2
+"HI, Honolulu",15003,Hawaii,Honolulu,11/25/24,EA H5N1 -  - ,1,1,9
+"ID, Ada",16001,Idaho,Ada,5/19/22,EA H5N1 -  - ,1,1,22
+"ID, Bannock",16005,Idaho,Bannock,9/30/22,EA H5N1 -  - ,0,1,3
+"ID, Bear Lake",16007,Idaho,Bear Lake,5/27/22,EA/AM H5N1 -  - ,0,1,2
+"ID, Bonneville",16019,Idaho,Bonneville,6/6/23,EA/AM H5N1 -  - ,0,1,7
+"ID, Boundary",16021,Idaho,Boundary,10/13/23,EA H5N1 -  - ,0,1,1
+"ID, Canyon",16027,Idaho,Canyon,10/4/23,EA/AM H5N1 -  - ,0,1,103
+"ID, Caribou",16029,Idaho,Caribou,5/16/22,EA/AM H5N1 -  - ,0,1,2
+"ID, Cassia",16031,Idaho,Cassia,8/18/23,EA H5N1 -  - ,0,1,6
+"ID, Custer",16037,Idaho,Custer,5/9/22,EA/AM H5N1 -  - ,0,1,1
+"ID, Elmore",16039,Idaho,Elmore,12/9/22,EA H5N1 -  - ,0,1,8
+"ID, Fremont",16043,Idaho,Fremont,12/15/22,EA/AM H5N1 -  - ,0,1,3
+"ID, Gem",16045,Idaho,Gem,11/1/23,EA H5N1 -  - ,0,1,1
+"ID, Gooding",16047,Idaho,Gooding,12/12/22,EA/AM H5N1 -  - ,0,1,11
+"ID, Jefferson",16051,Idaho,Jefferson,5/16/22,EA H5 -  - ,0,1,34
+"ID, Jerome",16053,Idaho,Jerome,11/21/22,EA H5N1 -  - ,0,1,2
+"ID, Lemhi",16059,Idaho,Lemhi,8/31/23,EA H5N1 -  - ,0,1,1
+"ID, Madison",16065,Idaho,Madison,5/16/22,EA/AM H5N1 -  - ,0,1,4
+"ID, Payette",16075,Idaho,Payette,5/16/22,EA/AM H5N1 -  - ,0,1,1
+"ID, Teton",16081,Idaho,Teton,5/16/22,EA/AM H5N1 -  - ,0,1,4
+"ID, Twin Falls",16083,Idaho,Twin Falls,5/11/22,EA/AM H5N1 -  - ,0,1,2
+"IL, Calhoun",17013,Illinois,Calhoun,11/28/23,EA/AM H5N1 -  - ,1,1,53
+"IL, Carroll",17015,Illinois,Carroll,7/20/22,EA H5N1 -  - ,0,1,2
+"IL, Champaign",17019,Illinois,Champaign,11/1/22,EA/AM H5N1 -  - ,0,1,7
+"IL, Clinton",17027,Illinois,Clinton,12/2/24,EA H5N1 -  - ,0,1,26
+"IL, Cook",17031,Illinois,Cook,4/29/22,EA/AM H5N1 -  - ,0,1,17
+"IL, Du Page",17043,Illinois,DuPage,12/27/24,EA H5 -  - ,0,1,1
+"IL, Effingham",17049,Illinois,Effingham,3/28/24,EA/AM H5N1 -  - ,0,1,1
+"IL, Fayette",17051,Illinois,Fayette,9/5/24,EA/AM H5N1 -  - ,0,1,19
+"IL, Fulton",17057,Illinois,Fulton,3/16/22,EA H5N1 -  - ,0,1,23
+"IL, Jefferson",17081,Illinois,Jefferson,12/17/22,EA/AM H5N1 -  - ,0,1,2
+"IL, Lake",17097,Illinois,Lake,5/5/22,EA/AM H5N1 -  - ,0,1,4
+"IL, Livingston",17105,Illinois,Livingston,11/9/22,EA/AM H5N1 -  - ,0,1,2
+"IL, Mclean",17113,Illinois,McLean,6/3/22,EA/AM H5N1 -  - ,0,1,2
+"IL, Macon",17115,Illinois,Macon,5/3/23,EA/AM H5N1 -  - ,0,1,2
+"IL, Macoupin",17117,Illinois,Macoupin,11/13/23,EA H5N1 -  - ,0,1,1
+"IL, Madison",17119,Illinois,Madison,9/23/22,EA H5N1 -  - ,0,1,49
+"IL, Marion",17121,Illinois,Marion,1/5/24,EA H5 -  - ,0,1,3
+"IL, Mason",17125,Illinois,Mason,12/20/23,EA H5N1 -  - ,0,1,7
+"IL, Peoria",17143,Illinois,Peoria,5/5/22,EA/AM H5N1 -  - ,0,1,1
+"IL, Perry",17145,Illinois,Perry,12/17/22,EA/AM H5N1 -  - ,0,1,2
+"IL, Randolph",17157,Illinois,Randolph,12/13/22,EA/AM H5N1 -  - ,0,1,10
+"IL, St Clair",17163,Illinois,St. Clair,9/5/24,EA H5 -  - ,0,1,22
+"IL, Sangamon",17167,Illinois,Sangamon,3/22/22,EA H5N1 -  - ,0,1,1
+"IL, Tazewell",17179,Illinois,Tazewell,1/16/25,EA H5 -  - ,0,1,1
+"IL, Vermilion",17183,Illinois,Vermilion,11/10/22,EA/AM H5N1 -  - ,0,1,1
+"IL, Will",17197,Illinois,Will,3/9/22,EA H5 -  - ,0,1,8
+"IL, Williamson",17199,Illinois,Williamson,10/26/22,EA/AM H5N1 -  - ,0,1,1
+"IL, Winnebago",17201,Illinois,Winnebago,10/3/23,EA H5N1 -  - ,0,1,2
+"IN, Allen",18003,Indiana,Allen,5/31/22,EA H5N1 -  - ,1,1,4
+"IN, Boone",18011,Indiana,Boone,3/21/23,EA H5N1 -  - ,0,1,1
+"IN, Dubois",18037,Indiana,Dubois,3/8/22,EA/AM H5N1 -  - ,0,1,1
+"IN, Floyd",18043,Indiana,Floyd,11/25/22,EA H5N1 -  - ,0,1,1
+"IN, Gibson",18051,Indiana,Gibson,12/7/22,EA/AM H5N1 -  - ,0,1,16
+"IN, Greene",18055,Indiana,Greene,9/23/22,EA H5N1 -  - ,0,1,13
+"IN, Hancock",18059,Indiana,Hancock,6/22/22,EA/AM H5N1 -  - ,0,1,1
+"IN, Jasper",18073,Indiana,Jasper,11/3/22,EA H5N1 -  - ,0,1,6
+"IN, Johnson",18081,Indiana,Johnson,5/11/22,EA/AM H5N1 -  - ,0,1,2
+"IN, Lake",18089,Indiana,Lake,10/19/22,EA/AM H5N1 -  - ,0,1,3
+"IN, Marion",18097,Indiana,Marion,6/29/22,EA/AM H5N1 -  - ,0,1,3
+"IN, Miami",18103,Indiana,Miami,4/21/22,EA H5N1 -  - ,0,1,1
+"IN, Monroe",18105,Indiana,Monroe,1/4/23,EA H5N1 -  - ,0,1,6
+"IN, Newton",18111,Indiana,Newton,11/3/22,EA H5N1 -  - ,0,1,2
+"IN, Posey",18129,Indiana,Posey,11/26/23,EA H5N1 -  - ,0,1,3
+"IN, Shelby",18145,Indiana,Shelby,5/3/22,EA/AM H5N1 -  - ,0,1,1
+"IN, Starke",18149,Indiana,Starke,11/17/23,EA H5N1 -  - ,0,1,44
+"IN, Tippecanoe",18157,Indiana,Tippecanoe,12/12/22,EA H5N1 -  - ,0,1,1
+"IN, Vanderburgh",18163,Indiana,Vanderburgh,3/4/24,EA/AM H5N1 -  - ,0,1,1
+"IN, Wabash",18169,Indiana,Wabash,3/27/24,EA/AM H5N1 -  - ,0,1,1
+"IA, Adair",19001,Iowa,Adair,3/15/22,EA H5 -  - ,1,1,1
+"IA, Allamakee",19005,Iowa,Allamakee,3/14/24,EA/AM H5N1 -  - ,0,1,2
+"IA, Benton",19011,Iowa,Benton,4/15/22,EA/AM H5N1 -  - ,0,1,1
+"IA, Black Hawk",19013,Iowa,Black Hawk,4/10/23,EA/AM H5N1 -  - ,0,1,10
+"IA, Boone",19015,Iowa,Boone,4/13/23,EA/AM H5N1 -  - ,0,1,1
+"IA, Bremer",19017,Iowa,Bremer,10/25/22,EA H5 -  - ,0,1,1
+"IA, Buchanan",19019,Iowa,Buchanan,5/4/22,EA/AM H5N1 -  - ,0,1,3
+"IA, Buena Vista",19021,Iowa,Buena Vista,9/26/23,EA/AM H5N1 -  - ,0,1,5
+"IA, Carroll",19027,Iowa,Carroll,6/21/24,EA H5N1 -  - ,0,1,1
+"IA, Cerro Gordo",19033,Iowa,Cerro Gordo,12/18/23,EA/AM H5N1 -  - ,0,1,6
+"IA, Cherokee",19035,Iowa,Cherokee,7/26/24,EA H5 -  - ,0,1,2
+"IA, Clay",19041,Iowa,Clay,10/25/22,EA/AM H5N1 -  - ,0,1,10
+"IA, Clinton",19045,Iowa,Clinton,7/14/22,EA/AM H5N1 -  - ,0,1,2
+"IA, Des Moines",19057,Iowa,Des Moines,9/18/24,EA H5N1 -  - ,0,1,1
+"IA, Dickinson",19059,Iowa,Dickinson,10/25/22,EA/AM H5N1 -  - ,0,1,15
+"IA, Dubuque",19061,Iowa,Dubuque,11/20/23,EA/AM H5N1 -  - ,0,1,1
+"IA, Guthrie",19077,Iowa,Guthrie,10/31/22,EA H5N1 -  - ,0,1,69
+"IA, Hancock",19081,Iowa,Hancock,11/1/23,EA H5N1 -  - ,0,1,7
+"IA, Harrison",19085,Iowa,Harrison,3/22/22,EA H5N1 -  - ,0,1,3
+"IA, Henry",19087,Iowa,Henry,2/14/23,EA/AM H5N1 -  - ,0,1,1
+"IA, Jackson",19097,Iowa,Jackson,12/17/24,EA/AM H5N1 -  - ,0,1,37
+"IA, Johnson",19103,Iowa,Johnson,9/8/22,EA/AM H5N1 -  - ,0,1,2
+"IA, Linn",19113,Iowa,Linn,4/12/22,EA/AM H5N1 -  - ,0,1,2
+"IA, Louisa",19115,Iowa,Louisa,4/22/22,EA/AM H5N1 -  - ,0,1,4
+"IA, Lucas",19117,Iowa,Lucas,4/18/22,EA H5N1 -  - ,0,1,8
+"IA, Madison",19121,Iowa,Madison,12/20/22,EA H5 -  - ,0,1,1
+"IA, Marion",19125,Iowa,Marion,12/19/24,EA H5 -  - ,0,1,53
+"IA, Mitchell",19131,Iowa,Mitchell,5/4/22,EA/AM H5N1 -  - ,0,1,2
+"IA, Monona",19133,Iowa,Monona,12/20/22,EA/AM H5N1 -  - ,0,1,7
+"IA, Monroe",19135,Iowa,Monroe,10/25/22,EA H5 -  - ,0,1,1
+"IA, O Brien",19141,Iowa,O'Brien,1/8/25,EA/AM H5N1 -  - ,0,1,7
+"IA, Page",19145,Iowa,Page,3/16/22,EA/AM H5N1 -  - ,0,1,9
+"IA, Plymouth",19149,Iowa,Plymouth,3/18/22,EA H5 -  - ,0,1,7
+"IA, Polk",19153,Iowa,Polk,8/20/24,EA/AM H5N1 -  - ,0,1,13
+"IA, Sac",19161,Iowa,Sac,10/23/23,EA/AM H5N1 -  - ,0,1,1
+"IA, Scott",19163,Iowa,Scott,10/27/22,EA/AM H5N1 -  - ,0,1,2
+"IA, Shelby",19165,Iowa,Shelby,12/20/22,EA/AM H5N1 -  - ,0,1,1
+"IA, Sioux",19167,Iowa,Sioux,7/12/24,EA/AM H5N1 -  - ,0,1,25
+"IA, Story",19169,Iowa,Story,5/3/22,EA/AM H5N1 -  - ,0,1,9
+"IA, Tama",19171,Iowa,Tama,4/16/24,EA/AM H5N1 -  - ,0,1,4
+"IA, Warren",19181,Iowa,Warren,11/20/23,EA/AM H5N1 -  - ,0,1,7
+"IA, Webster",19187,Iowa,Webster,1/9/23,EA H5N1 -  - ,0,1,1
+"IA, Winnebago",19189,Iowa,Winnebago,12/18/23,EA H5N1 -  - ,0,1,1
+"IA, Winneshiek",19191,Iowa,Winneshiek,3/21/23,EA/AM H5N1 -  - ,0,1,1
+"IA, Woodbury",19193,Iowa,Woodbury,3/22/22,EA H5 -  - ,0,1,20
+"IA, Worth",19195,Iowa,Worth,11/24/23,EA/AM H5N1 -  - ,0,1,2
+"KS, Barton",20009,Kansas,Barton,10/20/23,EA H5N1 -  - ,1,1,36
+"KS, Brown",20013,Kansas,Brown,6/7/22,EA H5N1 -  - ,0,1,1
+"KS, Butler",20015,Kansas,Butler,12/22/22,EA H5N1 -  - ,0,1,1
+"KS, Clay",20027,Kansas,Clay,11/12/24,EA H5N1 -  - ,0,1,2
+"KS, Coffey",20031,Kansas,Coffey,12/26/23,EA/AM H5N1 -  - ,0,1,2
+"KS, Crawford",20037,Kansas,Crawford,11/21/24,EA/AM H5N1 -  - ,0,1,5
+"KS, Douglas",20045,Kansas,Douglas,12/16/22,EA H5N1 -  - ,0,1,1
+"KS, Finney",20055,Kansas,Finney,12/22/22,EA H5N1 -  - ,0,1,9
+"KS, Ford",20057,Kansas,Ford,12/16/22,EA H5N1 -  - ,0,1,2
+"KS, Hamilton",20075,Kansas,Hamilton,12/12/22,EA/AM H5N1 -  - ,0,1,2
+"KS, Jefferson",20087,Kansas,Jefferson,3/28/22,EA H5N1 -  - ,0,1,1
+"KS, Jewell",20089,Kansas,Jewell,3/28/22,EA H5 -  - ,0,1,8
+"KS, Johnson",20091,Kansas,Johnson,10/17/22,EA H5 -  - ,0,1,1
+"KS, Kearny",20093,Kansas,Kearny,12/12/22,EA/AM H5N1 -  - ,0,1,4
+"KS, Kingman",20095,Kansas,Kingman,12/20/22,EA/AM H5N1 -  - ,0,1,1
+"KS, Lincoln",20105,Kansas,Lincoln,12/12/22,EA/AM H5N1 -  - ,0,1,1
+"KS, Lyon",20111,Kansas,Lyon,11/26/23,EA H5N1 -  - ,0,1,3
+"KS, Mcpherson",20113,Kansas,McPherson,10/20/23,EA/AM H5N1 -  - ,0,1,5
+"KS, Marion",20115,Kansas,Marion,1/12/23,EA H5N1 -  - ,0,1,4
+"KS, Marshall",20117,Kansas,Marshall,11/22/24,EA H5 -  - ,0,1,2
+"KS, Mitchell",20123,Kansas,Mitchell,12/22/23,EA/AM H5N1 -  - ,0,1,11
+"KS, Montgomery",20125,Kansas,Montgomery,11/17/22,EA/AM H5N1 -  - ,0,1,3
+"KS, Neosho",20133,Kansas,Neosho,12/2/23,EA H5N1 -  - ,0,1,43
+"KS, Norton",20137,Kansas,Norton,12/22/23,EA/AM H5N1 -  - ,0,1,7
+"KS, Phillips",20147,Kansas,Phillips,12/12/22,EA H5 -  - ,0,1,3
+"KS, Pottawatomie",20149,Kansas,Pottawatomie,12/16/22,EA H5 -  - ,0,1,18
+"KS, Rawlins",20153,Kansas,Rawlins,4/8/22,EA H5N1 -  - ,0,1,1
+"KS, Reno",20155,Kansas,Reno,10/28/22,EA H5N1 -  - ,0,1,2
+"KS, Riley",20161,Kansas,Riley,3/28/22,EA H5N1 -  - ,0,1,2
+"KS, Rooks",20163,Kansas,Rooks,12/22/23,EA H5N1 -  - ,0,1,7
+"KS, Rush",20165,Kansas,Rush,11/21/23,EA/AM H5N1 -  - ,0,1,14
+"KS, Saline",20169,Kansas,Saline,12/18/23,EA H5N1 -  - ,0,1,1
+"KS, Sedgwick",20173,Kansas,Sedgwick,11/21/23,EA/AM H5N1 -  - ,0,1,1
+"KS, Sherman",20181,Kansas,Sherman,12/16/22,EA H5N1 -  - ,0,1,2
+"KS, Stafford",20185,Kansas,Stafford,12/11/24,EA H5N1 -  - ,0,1,21
+"KS, Wabaunsee",20197,Kansas,Wabaunsee,1/20/23,EA H5N1 -  - ,0,1,12
+"KY, Ballard",21007,Kentucky,Ballard,12/17/24,EA H5 -  - ,1,1,10
+"KY, Breckinridge",21027,Kentucky,Breckinridge,2/23/22,EA H5N1 -  - ,0,1,4
+"KY, Fayette",21067,Kentucky,Fayette,12/13/22,EA/AM H5N1 -  - ,0,1,1
+"KY, Fulton",21075,Kentucky,Fulton,3/8/22,EA H5N1 -  - ,0,1,2
+"KY, Graves",21083,Kentucky,Graves,12/21/22,EA H5N1 -  - ,0,1,1
+"KY, Henderson",21101,Kentucky,Henderson,2/23/22,EA H5 -  - ,0,1,8
+"KY, Jefferson",21111,Kentucky,Jefferson,10/17/22,EA H5 -  - ,0,1,4
+"KY, Livingston",21139,Kentucky,Livingston,12/2/22,EA/AM H5N1 -  - ,0,1,1
+"KY, Mclean",21149,Kentucky,McLean,7/18/22,EA H5N1 -  - ,0,1,2
+"KY, Trigg",21221,Kentucky,Trigg,12/13/22,EA/AM H5N1 -  - ,0,1,1
+"KY, Warren",21227,Kentucky,Warren,12/12/22,EA/AM H5N1 -  - ,0,1,1
+"LA, Ascension Parish",22005,Louisiana,Ascension,2/22/23,EA/AM H5N1 -  - ,1,1,1
+"LA, Avoyelles Parish",22009,Louisiana,Avoyelles,12/9/22,EA/AM H5N1 -  - ,0,1,3
+"LA, Caddo Parish",22017,Louisiana,Caddo,8/31/23,EA H5N1 -  - ,0,1,1
+"LA, Calcasieu Parish",22019,Louisiana,Calcasieu,5/22/23,EA H5N1 mixed -  - ,0,1,2
+"LA, Cameron Parish",22023,Louisiana,Cameron,11/21/22,EA/AM H5N1 -  - ,0,1,83
+"LA, Catahoula Parish",22025,Louisiana,Catahoula,10/19/22,EA H5N1 -  - ,0,1,2
+"LA, East Baton Rouge Parish",22033,Louisiana,East Baton Rouge,11/26/23,EA H5N1 -  - ,0,1,2
+"LA, Jefferson Parish",22051,Louisiana,Jefferson,1/24/25,EA H5 -  - ,0,1,2
+"LA, Jefferson Davis Parish",22053,Louisiana,Jefferson Davis,6/29/23,EA/AM H5N1 -  - ,0,1,25
+"LA, La Salle Parish",22059,Louisiana,La Salle,1/4/23,EA H5 -  - ,0,1,14
+"LA, Livingston Parish",22063,Louisiana,Livingston Parish,8/14/24,EA/AM H5N1 -  - ,0,1,1
+"LA, Morehouse Parish",22067,Louisiana,Morehouse,1/9/23,EA/AM H5N1 -  - ,0,1,23
+"LA, Ouachita Parish",22073,Louisiana,Ouachita,12/2/24,EA/AM H5N1 -  - ,0,1,29
+"LA, Richland Parish",22083,Louisiana,Richland,4/24/23,EA H5N1 -  - ,0,1,30
+"LA, St Tammany Parish",22103,Louisiana,St. Tammany,2/22/23,EA/AM H5N1 -  - ,0,1,1
+"LA, Vermilion Parish",22113,Louisiana,Vermilion,12/2/24,EA H5 -  - ,0,1,3
+"ME, Androscoggin",23001,Maine,Androscoggin,2/21/24,EA H5N1 -  - ,1,1,76
+"ME, Cumberland",23005,Maine,Cumberland,3/14/24,EA/AM H5N1 -  - ,0,1,3
+"ME, Hancock",23009,Maine,Hancock,8/15/22,EA H5N1 -  - ,0,1,18
+"ME, Kennebec",23011,Maine,Kennebec,2/21/24,EA H5N1 -  - ,0,1,2
+"ME, Knox",23013,Maine,Knox,7/25/22,EA H5N1 -  - ,0,1,3
+"ME, Lincoln",23015,Maine,Lincoln,4/6/22,EA H5N1 -  - ,0,1,1
+"ME, Penobscot",23019,Maine,Penobscot,12/16/22,EA/AM H5 -  - ,0,1,39
+"ME, Sagadahoc",23023,Maine,Sagadahoc,7/8/22,EA H5N1 -  - ,0,1,2
+"ME, Somerset",23025,Maine,Somerset,2/21/24,EA H5N1 -  - ,0,1,1
+"ME, Waldo",23027,Maine,Waldo,2/10/23,EA H5N1 -  - ,0,1,13
+"ME, Washington",23029,Maine,Washington,8/15/22,EA H5N1 -  - ,0,1,9
+"ME, York",23031,Maine,York,8/11/22,EA H5N1 -  - ,0,1,17
+"MD, Anne Arundel",24003,Maryland,Anne Arundel,10/31/22,EA/AM H5N1 -  - ,1,1,2
+"MD, Baltimore",24005,Maryland,Baltimore,12/2/23,EA/AM H5N1 -  - ,0,1,1
+"MD, Carroll",24013,Maryland,Carroll,2/27/23,EA/AM H5N1 -  - ,0,1,1
+"MD, Charles",24017,Maryland,Charles,11/20/23,EA/AM H5N1 -  - ,0,1,8
+"MD, Dorchester",24019,Maryland,Dorchester,8/28/24,EA H5N1 -  - ,0,1,21
+"MD, Harford",24025,Maryland,Harford,4/26/22,EA/AM H5N1 -  - ,0,1,5
+"MD, Howard",24027,Maryland,Howard,5/27/22,EA H5N1 -  - ,0,1,2
+"MD, Kent",24029,Maryland,Kent,2/2/22,EA H5N1 -  - ,0,1,1
+"MD, Prince Georges",24033,Maryland,Prince George's,4/13/23,EA H5N1 -  - ,0,1,1
+"MD, Queen Annes",24035,Maryland,Queen Anne's,11/27/24,EA H5N1 -  - ,0,1,2
+"MD, St Marys",24037,Maryland,St. Mary's,1/5/24,EA H5N1 -  - ,0,1,2
+"MD, Talbot",24041,Maryland,Talbot,1/30/25,EA H5N1 -  - ,0,1,10
+"MD, Wicomico",24045,Maryland,Wicomico,5/31/24,EA H5N1 -  - ,0,1,2
+"MD, Worcester",24047,Maryland,Worcester,2/29/24,EA H5N1 -  - ,0,1,1
+"MA, Barnstable",25001,Massachusetts,Barnstable,4/15/22,EA H5N1 -  - ,1,1,124
+"MA, Berkshire",25003,Massachusetts,Berkshire,10/7/22,EA/AM H5N1 -  - ,0,1,5
+"MA, Bristol",25005,Massachusetts,Bristol,6/4/24,EA/AM H5N1 -  - ,0,1,7
+"MA, Essex",25009,Massachusetts,Essex,1/18/23,EA/AM H5N1 -  - ,0,1,103
+"MA, Franklin",25011,Massachusetts,Franklin,6/4/24,EA/AM H5N1 -  - ,0,1,1
+"MA, Hampden",25013,Massachusetts,Hampden,6/4/24,EA/AM H5N1 -  - ,0,1,10
+"MA, Hampshire",25015,Massachusetts,Hampshire,5/26/23,EA/AM H5N1 -  - ,0,1,1
+"MA, Middlesex",25017,Massachusetts,Middlesex,2/14/23,EA/AM H5N1 -  - ,0,1,45
+"MA, Nantucket",25019,Massachusetts,Nantucket,6/1/22,EA H5N1 -  - ,0,1,16
+"MA, Norfolk",25021,Massachusetts,Norfolk,6/4/24,EA/AM H5N1 -  - ,0,1,5
+"MA, Plymouth",25023,Massachusetts,Plymouth,6/1/22,EA H5N1 -  - ,0,1,21
+"MA, Suffolk",25025,Massachusetts,Suffolk,3/1/24,EA/AM H5N1 -  - ,0,1,8
+"MA, Worcester",25027,Massachusetts,Worcester,5/26/23,EA H5 -  - ,0,1,13
+"MI, Alger",26003,Michigan,Alger,11/21/23,EA/AM H5N1 -  - ,1,1,3
+"MI, Allegan",26005,Michigan,Allegan,11/6/24,EA H5N1 -  - ,0,1,5
+"MI, Alpena",26007,Michigan,Alpena,5/5/22,EA H5N1 -  - ,0,1,3
+"MI, Antrim",26009,Michigan,Antrim,9/1/22,EA H5N1 -  - ,0,1,2
+"MI, Arenac",26011,Michigan,Arenac,5/5/22,EA H5N1 -  - ,0,1,1
+"MI, Baraga",26013,Michigan,Baraga,1/9/23,EA H5N1 -  - ,0,1,4
+"MI, Bay",26017,Michigan,Bay,4/19/22,EA H5N1 -  - ,0,1,16
+"MI, Benzie",26019,Michigan,Benzie,5/9/22,EA H5N1 -  - ,0,1,1
+"MI, Berrien",26021,Michigan,Berrien,5/17/22,EA H5N1 -  - ,0,1,1
+"MI, Branch",26023,Michigan,Branch,7/11/22,EA/AM H5N1 -  - ,0,1,1
+"MI, Cass",26027,Michigan,Cass,7/11/22,EA/AM H5N1 -  - ,0,1,1
+"MI, Charlevoix",26029,Michigan,Charlevoix,6/8/22,EA/AM H5N1 -  - ,0,1,3
+"MI, Cheboygan",26031,Michigan,Cheboygan,5/5/22,EA H5 -  - ,0,1,3
+"MI, Chippewa",26033,Michigan,Chippewa,4/29/22,EA H5N1 -  - ,0,1,4
+"MI, Clare",26035,Michigan,Clare,1/31/23,EA H5N1 -  - ,0,1,1
+"MI, Clinton",26037,Michigan,Clinton,9/1/22,EA H5 -  - ,0,1,4
+"MI, Crawford",26039,Michigan,Crawford,3/30/22,EA H5 -  - ,0,1,1
+"MI, Delta",26041,Michigan,Delta,6/24/22,EA H5N1 -  - ,0,1,7
+"MI, Dickinson",26043,Michigan,Dickinson,6/24/22,EA H5N1 -  - ,0,1,2
+"MI, Eaton",26045,Michigan,Eaton,5/22/23,EA H5 -  - ,0,1,20
+"MI, Gladwin",26051,Michigan,Gladwin,5/5/22,EA H5N1 -  - ,0,1,2
+"MI, Gogebic",26053,Michigan,Gogebic,6/9/22,EA H5N1 -  - ,0,1,1
+"MI, Grand Traverse",26055,Michigan,Grand Traverse,7/11/22,EA H5N1 -  - ,0,1,9
+"MI, Hillsdale",26059,Michigan,Hillsdale,1/12/23,EA/AM H5N1 -  - ,0,1,3
+"MI, Houghton",26061,Michigan,Houghton,11/17/22,EA H5N1 -  - ,0,1,1
+"MI, Huron",26063,Michigan,Huron,6/8/22,EA/AM H5N1 -  - ,0,1,2
+"MI, Ingham",26065,Michigan,Ingham,8/15/22,EA/AM H5N1 -  - ,0,1,30
+"MI, Ionia",26067,Michigan,Ionia,6/5/24,EA H5N1 -  - ,0,1,28
+"MI, Iosco",26069,Michigan,Iosco,4/29/22,EA H5N1 -  - ,0,1,4
+"MI, Iron",26071,Michigan,Iron,5/17/22,EA H5 -  - ,0,1,2
+"MI, Isabella",26073,Michigan,Isabella,1/23/23,EA H5N1 -  - ,0,1,5
+"MI, Jackson",26075,Michigan,Jackson,1/27/25,EA H5 -  - ,0,1,2
+"MI, Kalamazoo",26077,Michigan,Kalamazoo,9/15/22,EA H5N1 -  - ,0,1,5
+"MI, Kent",26081,Michigan,Kent,4/12/22,EA H5N1 -  - ,0,1,2
+"MI, Livingston",26093,Michigan,Livingston,4/29/22,EA H5N1 -  - ,0,1,1
+"MI, Mackinac",26097,Michigan,Mackinac,6/8/22,EA/AM H5N1 -  - ,0,1,8
+"MI, Macomb",26099,Michigan,Macomb,6/8/22,EA/AM H5N1 -  - ,0,1,4
+"MI, Manistee",26101,Michigan,Manistee,5/9/22,EA H5N1 -  - ,0,1,2
+"MI, Marquette",26103,Michigan,Marquette,1/27/25,EA H5 -  - ,0,1,2
+"MI, Mason",26105,Michigan,Mason,6/8/22,EA/AM H5N1 -  - ,0,1,2
+"MI, Mecosta",26107,Michigan,Mecosta,8/24/22,EA H5N1 -  - ,0,1,1
+"MI, Menominee",26109,Michigan,Menominee,5/17/22,EA H5N1 -  - ,0,1,1
+"MI, Midland",26111,Michigan,Midland,6/17/22,EA/AM H5N1 -  - ,0,1,2
+"MI, Missaukee",26113,Michigan,Missaukee,6/8/22,EA H5N1 -  - ,0,1,2
+"MI, Monroe",26115,Michigan,Monroe,3/24/22,EA H5N1 -  - ,0,1,5
+"MI, Montmorency",26119,Michigan,Montmorency,5/17/22,EA H5N1 -  - ,0,1,2
+"MI, Muskegon",26121,Michigan,Muskegon,6/24/22,EA H5N1 -  - ,0,1,2
+"MI, Newaygo",26123,Michigan,Newaygo,9/29/22,EA H5N1 -  - ,0,1,2
+"MI, Oakland",26125,Michigan,Oakland,1/31/23,EA H5N1 -  - ,0,1,6
+"MI, Ogemaw",26129,Michigan,Ogemaw,6/8/22,EA/AM H5N1 -  - ,0,1,1
+"MI, Ontonagon",26131,Michigan,Ontonagon,6/9/22,EA H5N1 -  - ,0,1,1
+"MI, Osceola",26133,Michigan,Osceola,6/8/22,EA/AM H5N1 -  - ,0,1,1
+"MI, Otsego",26137,Michigan,Otsego,6/8/22,EA/AM H5N1 -  - ,0,1,2
+"MI, Ottawa",26139,Michigan,Ottawa,9/29/22,EA H5N1 -  - ,0,1,6
+"MI, Presque Isle",26141,Michigan,Presque Isle,5/17/22,EA H5N1 -  - ,0,1,2
+"MI, Roscommon",26143,Michigan,Roscommon,1/24/25,EA H5 -  - ,0,1,6
+"MI, Saginaw",26145,Michigan,Saginaw,4/19/22,EA H5N1 -  - ,0,1,31
+"MI, St Clair",26147,Michigan,St. Clair,3/24/22,EA H5N1 -  - ,0,1,89
+"MI, Schoolcraft",26153,Michigan,Schoolcraft,4/29/22,EA H5N1 -  - ,0,1,1
+"MI, Shiawassee",26155,Michigan,Shiawassee,4/19/22,EA H5N1 -  - ,0,1,1
+"MI, Tuscola",26157,Michigan,Tuscola,11/17/23,EA H5N1 -  - ,0,1,23
+"MI, Washtenaw",26161,Michigan,Washtenaw,9/8/22,EA H5N1 -  - ,0,1,3
+"MI, Wayne",26163,Michigan,Wayne,6/17/22,EA H5N1 -  - ,0,1,1
+"MI, Wexford",26165,Michigan,Wexford,1/30/24,EA H5N1 -  - ,0,1,3
+"MN, Aitkin",27001,Minnesota,Aitkin,5/13/22,EA/AM H5N1 -  - ,1,1,5
+"MN, Anoka",27003,Minnesota,Anoka,4/14/22,EA H5N1 -  - ,0,1,43
+"MN, Becker",27005,Minnesota,Becker,6/13/24,EA/AM H5N1 -  - ,0,1,1
+"MN, Beltrami",27007,Minnesota,Beltrami,5/26/22,EA/AM H5N1 -  - ,0,1,7
+"MN, Big Stone",27011,Minnesota,Big Stone,10/25/22,EA H5 -  - ,0,1,9
+"MN, Blue Earth",27013,Minnesota,Blue Earth,10/28/22,EA/AM H5N1 -  - ,0,1,2
+"MN, Brown",27015,Minnesota,Brown,5/5/22,EA H5N1 -  - ,0,1,1
+"MN, Carlton",27017,Minnesota,Carlton,10/25/22,EA H5 -  - ,0,1,4
+"MN, Carver",27019,Minnesota,Carver,4/15/22,EA/AM H5N1 -  - ,0,1,9
+"MN, Cass",27021,Minnesota,Cass,6/10/22,EA/AM H5N1 -  - ,0,1,28
+"MN, Chippewa",27023,Minnesota,Chippewa,4/21/22,EA/AM H5N1 -  - ,0,1,1
+"MN, Chisago",27025,Minnesota,Chisago,5/4/22,EA/AM H5N1 -  - ,0,1,11
+"MN, Clay",27027,Minnesota,Clay,5/13/22,EA/AM H5N1 -  - ,0,1,1
+"MN, Cook",27031,Minnesota,Cook,6/2/22,EA/AM H5N1 -  - ,0,1,1
+"MN, Crow Wing",27035,Minnesota,Crow Wing,6/7/22,EA/AM H5N1 -  - ,0,1,14
+"MN, Dakota",27037,Minnesota,Dakota,5/2/22,EA/AM H5N1 -  - ,0,1,26
+"MN, Douglas",27041,Minnesota,Douglas,5/26/22,EA/AM H5N1 -  - ,0,1,1
+"MN, Faribault",27043,Minnesota,Faribault,5/6/22,EA H5N1 -  - ,0,1,1
+"MN, Fillmore",27045,Minnesota,Fillmore,4/21/22,EA/AM H5N1 -  - ,0,1,1
+"MN, Freeborn",27047,Minnesota,Freeborn,5/13/22,EA/AM H5N1 -  - ,0,1,2
+"MN, Goodhue",27049,Minnesota,Goodhue,5/19/22,EA H5N1 -  - ,0,1,6
+"MN, Grant",27051,Minnesota,Grant,9/5/24,EA/AM H5N1 -  - ,0,1,4
+"MN, Hennepin",27053,Minnesota,Hennepin,5/6/22,EA/AM H5N1 -  - ,0,1,85
+"MN, Houston",27055,Minnesota,Houston,12/2/23,EA/AM H5N1 -  - ,0,1,3
+"MN, Hubbard",27057,Minnesota,Hubbard,5/27/22,EA H5N1 -  - ,0,1,3
+"MN, Isanti",27059,Minnesota,Isanti,4/21/22,EA/AM H5N1 -  - ,0,1,3
+"MN, Itasca",27061,Minnesota,Itasca,4/21/22,EA/AM H5N1 -  - ,0,1,3
+"MN, Kanabec",27065,Minnesota,Kanabec,9/15/22,EA/AM H5N1 -  - ,0,1,3
+"MN, Kandiyohi",27067,Minnesota,Kandiyohi,3/31/22,EA H5 -  - ,0,1,2
+"MN, Kittson",27069,Minnesota,Kittson,5/26/22,EA/AM H5N1 -  - ,0,1,1
+"MN, Le Sueur",27079,Minnesota,Le Sueur,5/17/22,EA/AM H5N1 -  - ,0,1,2
+"MN, Lincoln",27081,Minnesota,Lincoln,12/12/22,EA H5N1 -  - ,0,1,2
+"MN, Lyon",27083,Minnesota,Lyon,4/15/22,EA/AM H5N1 -  - ,0,1,3
+"MN, Mcleod",27085,Minnesota,McLeod,10/4/22,EA/AM H5N1 -  - ,0,1,3
+"MN, Mahnomen",27087,Minnesota,Mahnomen,4/21/22,EA/AM H5N1 -  - ,0,1,1
+"MN, Marshall",27089,Minnesota,Marshall,6/23/23,EA/AM H5N1 -  - ,0,1,123
+"MN, Martin",27091,Minnesota,Martin,4/20/22,EA/AM H5N1 -  - ,0,1,1
+"MN, Meeker",27093,Minnesota,Meeker,5/13/22,EA/AM H5N1 -  - ,0,1,1
+"MN, Mille Lacs",27095,Minnesota,Mille Lacs,5/13/22,EA H5N1 -  - ,0,1,14
+"MN, Morrison",27097,Minnesota,Morrison,4/20/22,EA/AM H5N1 -  - ,0,1,4
+"MN, Murray",27101,Minnesota,Murray,5/13/22,EA/AM H5N1 -  - ,0,1,1
+"MN, Nicollet",27103,Minnesota,Nicollet,9/13/22,EA H5N1 -  - ,0,1,8
+"MN, Nobles",27105,Minnesota,Nobles,5/13/22,EA H5N1 -  - ,0,1,1
+"MN, Olmsted",27109,Minnesota,Olmsted,5/5/22,EA/AM H5N1 -  - ,0,1,5
+"MN, Otter Tail",27111,Minnesota,Otter Tail,5/31/22,EA H5N1 -  - ,0,1,2
+"MN, Pine",27115,Minnesota,Pine,4/29/22,EA/AM H5N1 -  - ,0,1,4
+"MN, Polk",27119,Minnesota,Polk,5/13/22,EA/AM H5N1 -  - ,0,1,5
+"MN, Pope",27121,Minnesota,Pope,4/15/22,EA/AM H5N1 -  - ,0,1,1
+"MN, Ramsey",27123,Minnesota,Ramsey,5/12/22,EA/AM H5N1 -  - ,0,1,84
+"MN, Red Lake",27125,Minnesota,Red Lake,5/13/22,EA/AM H5N1 -  - ,0,1,1
+"MN, Rice",27131,Minnesota,Rice,11/25/22,EA/AM H5N1 -  - ,0,1,3
+"MN, Roseau",27135,Minnesota,Roseau,5/5/22,EA/AM H5N1 -  - ,0,1,4
+"MN, St Louis",27137,Minnesota,St. Louis,5/12/22,EA/AM H5N1 -  - ,0,1,7
+"MN, Scott",27139,Minnesota,Scott,12/2/22,EA H5N1 -  - ,0,1,19
+"MN, Sherburne",27141,Minnesota,Sherburne,5/23/22,EA/AM H5N1 -  - ,0,1,5
+"MN, Stearns",27145,Minnesota,Stearns,10/25/22,EA H5 -  - ,0,1,9
+"MN, Steele",27147,Minnesota,Steele,5/13/22,EA/AM H5N1 -  - ,0,1,2
+"MN, Todd",27153,Minnesota,Todd,9/17/24,EA/AM H5N1 -  - ,0,1,3
+"MN, Wabasha",27157,Minnesota,Wabasha,12/4/24,EA H5N1 -  - ,0,1,33
+"MN, Wadena",27159,Minnesota,Wadena,5/5/22,EA/AM H5N1 -  - ,0,1,1
+"MN, Washington",27163,Minnesota,Washington,5/6/22,EA H5N1 -  - ,0,1,27
+"MN, Watonwan",27165,Minnesota,Watonwan,5/5/22,EA/AM H5N1 -  - ,0,1,1
+"MN, Wilkin",27167,Minnesota,Wilkin,4/7/22,EA/AM H5N1 -  - ,0,1,2
+"MN, Winona",27169,Minnesota,Winona,11/26/23,EA/AM H5N1 -  - ,0,1,6
+"MN, Wright",27171,Minnesota,Wright,10/19/22,EA/AM H5N1 -  - ,0,1,28
+"MS, Alcorn",28003,Mississippi,Alcorn,12/20/22,EA/AM H5N1 -  - ,1,1,1
+"MS, Clarke",28023,Mississippi,Clarke,12/9/22,EA/AM H5N1 -  - ,0,1,1
+"MS, Clay",28025,Mississippi,Clay,1/26/23,EA/AM H5N1 -  - ,0,1,10
+"MS, De Soto",28033,Mississippi,De Soto,12/16/22,EA/AM H5N1 -  - ,0,1,1
+"MS, Grenada",28043,Mississippi,Grenada,3/15/24,EA H5N1 -  - ,0,1,4
+"MS, Harrison",28047,Mississippi,Harrison,8/31/23,EA H5N1 -  - ,0,1,1
+"MS, Issaquena",28055,Mississippi,Issaquena,12/17/24,EA H5 -  - ,0,1,92
+"MS, Itawamba",28057,Mississippi,Itawamba,12/19/24,EA/AM H5N1 -  - ,0,1,1
+"MS, Jackson",28059,Mississippi,Jackson,12/31/24,EA/AM H5N1 -  - ,0,1,1
+"MS, Jasper",28061,Mississippi,Jasper,1/18/23,EA/AM H5N1 -  - ,0,1,20
+"MS, Jones",28067,Mississippi,Jones,1/26/23,EA/AM H5N1 -  - ,0,1,10
+"MS, Lafayette",28071,Mississippi,Lafayette,12/22/22,EA/AM H5N1 -  - ,0,1,4
+"MS, Lawrence",28077,Mississippi,Lawrence,12/9/22,EA/AM H5N1 -  - ,0,1,1
+"MS, Leflore",28083,Mississippi,Leflore,12/19/24,EA H5 -  - ,0,1,88
+"MS, Lowndes",28087,Mississippi,Lowndes,12/9/22,EA/AM H5N1 -  - ,0,1,17
+"MS, Madison",28089,Mississippi,Madison,12/22/22,EA H5N1 -  - ,0,1,8
+"MS, Monroe",28095,Mississippi,Monroe,12/16/22,EA/AM H5N1 -  - ,0,1,1
+"MS, Neshoba",28099,Mississippi,Neshoba,2/6/23,EA/AM H5N1 -  - ,0,1,3
+"MS, Noxubee",28103,Mississippi,Noxubee,12/9/22,EA/AM H5N1 -  - ,0,1,20
+"MS, Oktibbeha",28105,Mississippi,Oktibbeha,9/3/24,EA H5N1 -  - ,0,1,8
+"MS, Panola",28107,Mississippi,Panola,12/19/24,EA H5 -  - ,0,1,2
+"MS, Quitman",28119,Mississippi,Quitman,9/5/24,EA/AM H5N1 -  - ,0,1,13
+"MS, Rankin",28121,Mississippi,Rankin,1/26/23,EA/AM H5N1 -  - ,0,1,1
+"MS, Scott",28123,Mississippi,Scott,12/22/22,EA/AM H5N1 -  - ,0,1,1
+"MS, Smith",28129,Mississippi,Smith,12/20/23,EA/AM H5N1 -  - ,0,1,1
+"MS, Tallahatchie",28135,Mississippi,Tallahatchie,12/19/24,EA H5 -  - ,0,1,90
+"MS, Washington",28151,Mississippi,Washington,12/9/22,EA/AM H5N1 -  - ,0,1,2
+"MS, Winston",28159,Mississippi,Winston,1/26/23,EA/AM H5N1 -  - ,0,1,2
+"MS, Yazoo",28163,Mississippi,Yazoo,12/22/22,EA H5N1 -  - ,0,1,1
+"MO, Barton",29011,Missouri,Barton,4/26/22,EA/AM H5N1 -  - ,1,1,1
+"MO, Bates",29013,Missouri,Bates,12/20/22,EA H5N1 -  - ,0,1,3
+"MO, Benton",29015,Missouri,Benton,1/18/23,EA H5N1 -  - ,0,1,1
+"MO, Bollinger",29017,Missouri,Bollinger,12/13/22,EA/AM H5N1 -  - ,0,1,1
+"MO, Boone",29019,Missouri,Boone,12/26/24,EA H5N1 -  - ,0,1,30
+"MO, Buchanan",29021,Missouri,Buchanan,3/8/22,EA H5 -  - ,0,1,3
+"MO, Butler",29023,Missouri,Butler,9/6/24,EA/AM H5N1 -  - ,0,1,1
+"MO, Callaway",29027,Missouri,Callaway,4/26/22,EA H5 -  - ,0,1,1
+"MO, Chariton",29041,Missouri,Chariton,3/16/22,EA H5 -  - ,0,1,61
+"MO, Clay",29047,Missouri,Clay,12/3/24,EA/AM H5N1 -  - ,0,1,9
+"MO, Dunklin",29069,Missouri,Dunklin,12/5/22,EA/AM H5N1 -  - ,0,1,4
+"MO, Franklin",29071,Missouri,Franklin,12/20/22,EA H5N1 -  - ,0,1,2
+"MO, Gasconade",29073,Missouri,Gasconade,10/1/24,EA/AM H5N1 -  - ,0,1,1
+"MO, Gentry",29075,Missouri,Gentry,4/26/22,EA/AM H5N1 -  - ,0,1,1
+"MO, Holt",29087,Missouri,Holt,12/16/22,EA/AM H5N1 -  - ,0,1,7
+"MO, Howard",29089,Missouri,Howard,4/26/22,EA/AM H5N1 -  - ,0,1,1
+"MO, Howell",29091,Missouri,Howell,12/5/22,EA/AM H5N1 -  - ,0,1,1
+"MO, Jackson",29095,Missouri,Jackson,4/26/22,EA/AM H5N1 -  - ,0,1,12
+"MO, Johnson",29101,Missouri,Johnson,10/1/24,EA/AM H5N1 -  - ,0,1,1
+"MO, Lewis",29111,Missouri,Lewis,4/26/22,EA/AM H5N1 -  - ,0,1,1
+"MO, Lincoln",29113,Missouri,Lincoln,4/26/22,EA H5 -  - ,0,1,1
+"MO, Miller",29131,Missouri,Miller,4/26/22,EA H5N1 -  - ,0,1,1
+"MO, Moniteau",29135,Missouri,Moniteau,12/8/22,EA H5N1 -  - ,0,1,1
+"MO, Monroe",29137,Missouri,Monroe,4/26/22,EA/AM H5N1 -  - ,0,1,1
+"MO, New Madrid",29143,Missouri,New Madrid,12/8/22,EA H5N1 -  - ,0,1,3
+"MO, Nodaway",29147,Missouri,Nodaway,12/8/22,EA H5N1 -  - ,0,1,1
+"MO, Pemiscot",29155,Missouri,Pemiscot,12/13/22,EA/AM H5N1 -  - ,0,1,1
+"MO, Perry",29157,Missouri,Perry,12/20/22,EA H5N1 -  - ,0,1,1
+"MO, Pettis",29159,Missouri,Pettis,3/14/22,EA/AM H5N1 -  - ,0,1,1
+"MO, Platte",29165,Missouri,Platte,12/13/22,EA/AM H5N1 -  - ,0,1,7
+"MO, Randolph",29175,Missouri,Randolph,3/14/22,EA/AM H5N1 -  - ,0,1,2
+"MO, St Charles",29183,Missouri,St. Charles,10/25/22,EA/AM H5N1 -  - ,0,1,8
+"MO, St Clair",29185,Missouri,St. Clair,4/26/22,EA/AM H5N1 -  - ,0,1,1
+"MO, St Louis",29189,Missouri,St. Louis,11/20/23,EA/AM H5N1 -  - ,0,1,18
+"MO, Saline",29195,Missouri,Saline,12/16/24,EA/AM H5N1 -  - ,0,1,48
+"MO, Scott",29201,Missouri,Scott,4/26/22,EA H5 -  - ,0,1,1
+"MO, Shannon",29203,Missouri,Shannon,9/5/24,EA/AM H5N1 -  - ,0,1,1
+"MO, Stoddard",29207,Missouri,Stoddard,8/28/24,EA/AM H5N1 -  - ,0,1,9
+"MO, Vernon",29217,Missouri,Vernon,4/26/22,EA/AM H5N1 -  - ,0,1,7
+"MO, Wayne",29223,Missouri,Wayne,11/20/23,EA/AM H5N1 -  - ,0,1,2
+"MO, Webster",29225,Missouri,Webster,12/13/22,EA H5N1 -  - ,0,1,2
+"MT, Beaverhead",30001,Montana,Beaverhead,9/29/22,EA/AM H5N1 -  - ,1,1,3
+"MT, Big Horn",30003,Montana,Big Horn,12/13/24,EA H5 -  - ,0,1,24
+"MT, Broadwater",30007,Montana,Broadwater,5/6/22,EA H5N1 -  - ,0,1,6
+"MT, Carbon",30009,Montana,Carbon,12/30/24,EA H5 -  - ,0,1,4
+"MT, Cascade",30013,Montana,Cascade,10/4/23,EA/AM H5N1 -  - ,0,1,10
+"MT, Custer",30017,Montana,Custer,5/27/22,EA H5N1 -  - ,0,1,1
+"MT, Dawson",30021,Montana,Dawson,5/2/22,EA H5N1 -  - ,0,1,1
+"MT, Deer Lodge",30023,Montana,Deer Lodge,5/17/22,EA/AM H5N1 -  - ,0,1,1
+"MT, Fergus",30027,Montana,Fergus,5/2/22,EA H5 -  - ,0,1,3
+"MT, Flathead",30029,Montana,Flathead,9/1/22,EA H5N1 -  - ,0,1,6
+"MT, Gallatin",30031,Montana,Gallatin,4/13/23,EA H5N1 -  - ,0,1,24
+"MT, Garfield",30033,Montana,Garfield,12/8/22,EA/AM H5N1 -  - ,0,1,1
+"MT, Hill",30041,Montana,Hill,10/28/22,EA H5N1 -  - ,0,1,1
+"MT, Jefferson",30043,Montana,Jefferson,1/3/25,EA H5N1 -  - ,0,1,1
+"MT, Lake",30047,Montana,Lake,10/12/23,EA H5N1 -  - ,0,1,38
+"MT, Lewis And Clark",30049,Montana,Lewis and Clark,6/2/23,EA/AM H5N1 -  - ,0,1,4
+"MT, Lincoln",30053,Montana,Lincoln,12/2/23,EA H5N1 -  - ,0,1,3
+"MT, Madison",30057,Montana,Madison,5/2/22,EA H5N1 -  - ,0,1,4
+"MT, Mineral",30061,Montana,Mineral,5/27/22,EA H5N1 -  - ,0,1,1
+"MT, Missoula",30063,Montana,Missoula,11/20/23,EA/AM H5N1 -  - ,0,1,4
+"MT, Park",30067,Montana,Park,5/2/22,EA H5N1 -  - ,0,1,2
+"MT, Pondera",30073,Montana,Pondera,5/2/22,EA H5N1 -  - ,0,1,2
+"MT, Ravalli",30081,Montana,Ravalli,2/6/24,EA/AM H5N1 -  - ,0,1,9
+"MT, Sanders",30089,Montana,Sanders,5/9/23,EA H5 -  - ,0,1,1
+"MT, Sheridan",30091,Montana,Sheridan,12/18/23,EA H5N1 -  - ,0,1,3
+"MT, Silver Bow",30093,Montana,Silver Bow,5/17/22,EA/AM H5N1 -  - ,0,1,2
+"MT, Teton",30099,Montana,Teton,10/16/23,EA H5N1 -  - ,0,1,62
+"MT, Toole",30101,Montana,Toole,12/8/22,EA/AM H5N1 -  - ,0,1,1
+"MT, Yellowstone",30111,Montana,Yellowstone,2/6/24,EA/AM H5N1 -  - ,0,1,11
+"NE, Box Butte",31013,Nebraska,Box Butte,12/6/22,EA/AM H5N1 -  - ,1,1,5
+"NE, Brown",31017,Nebraska,Brown,3/22/22,EA H5N1 -  - ,0,1,1
+"NE, Buffalo",31019,Nebraska,Buffalo,11/21/23,EA H5N1 -  - ,0,1,11
+"NE, Cedar",31027,Nebraska,Cedar,3/14/22,EA H5N1 -  - ,0,1,1
+"NE, Cheyenne",31033,Nebraska,Cheyenne,1/9/23,EA H5N1 -  - ,0,1,1
+"NE, Colfax",31037,Nebraska,Colfax,12/22/22,EA/AM H5N1 -  - ,0,1,3
+"NE, Deuel",31049,Nebraska,Deuel,12/20/22,EA H5N1 -  - ,0,1,2
+"NE, Douglas",31055,Nebraska,Douglas,3/10/22,EA H5N1 -  - ,0,1,9
+"NE, Harlan",31083,Nebraska,Harlan,12/13/24,EA H5 -  - ,0,1,2
+"NE, Keith",31101,Nebraska,Keith,4/5/23,EA/AM H5N1 -  - ,0,1,1
+"NE, Lancaster",31109,Nebraska,Lancaster,5/5/22,EA/AM H5N1 -  - ,0,1,10
+"NE, Lincoln",31111,Nebraska,Lincoln,1/18/23,EA/AM H5N1 -  - ,0,1,2
+"NE, Otoe",31131,Nebraska,Otoe,3/22/22,EA/AM H5N1 -  - ,0,1,1
+"NE, Red Willow",31145,Nebraska,Red Willow,12/30/22,EA/AM H5N1 -  - ,0,1,2
+"NE, Sarpy",31153,Nebraska,Sarpy,5/6/22,EA/AM H5N1 -  - ,0,1,1
+"NE, Scotts Bluff",31157,Nebraska,Scotts Bluff,12/4/23,EA H5N1 -  - ,0,1,9
+"NE, York",31185,Nebraska,York,11/21/22,EA/AM H5N1 -  - ,0,1,1
+"NV, Churchill",32001,Nevada,Churchill,11/20/23,EA H5N1 -  - ,1,1,53
+"NV, Clark",32003,Nevada,Clark,10/31/22,EA H5N1 -  - ,0,1,2
+"NV, Douglas",32005,Nevada,Douglas,8/3/22,EA H5N1 -  - ,0,1,2
+"NV, Elko",32007,Nevada,Elko,10/25/22,EA H5N1 -  - ,0,1,5
+"NV, Humboldt",32013,Nevada,Humboldt,11/17/22,EA/AM H5N1 -  - ,0,1,2
+"NV, Lyon",32019,Nevada,Lyon,11/1/23,EA/AM H5N1 -  - ,0,1,12
+"NV, Mineral",32021,Nevada,Mineral,2/2/24,EA/AM H5N1 -  - ,0,1,11
+"NV, Pershing",32027,Nevada,Pershing,12/16/22,EA H5N1 -  - ,0,1,1
+"NV, Washoe",32031,Nevada,Washoe,9/23/24,EA/AM H5N1 -  - ,0,1,26
+"NV, Carson City",32510,Nevada,Carson City,10/25/22,EA H5N1 -  - ,0,1,1
+"NH, Belknap",33001,New Hampshire,Belknap,4/14/22,EA/AM H5N1 -  - ,1,1,3
+"NH, Grafton",33009,New Hampshire,Grafton,2/16/22,EA H5 -  - ,0,1,7
+"NH, Hillsborough",33011,New Hampshire,Hillsborough,9/15/22,EA/AM H5N1 -  - ,0,1,2
+"NH, Merrimack",33013,New Hampshire,Merrimack,9/15/22,EA H5N1 -  - ,0,1,45
+"NH, Rockingham",33015,New Hampshire,Rockingham,2/9/22,EA H5 -  - ,0,1,55
+"NH, Strafford",33017,New Hampshire,Strafford,5/21/24,EA/AM H5N1 -  - ,0,1,5
+"NH, Sullivan",33019,New Hampshire,Sullivan,2/16/24,EA H5N1 -  - ,0,1,44
+"NJ, Bergen",34003,New Jersey,Bergen,6/21/24,EA H5N1 -  - ,1,1,2
+"NJ, Cape May",34009,New Jersey,Cape May,2/23/22,EA H5 -  - ,0,1,21
+"NJ, Cumberland",34011,New Jersey,Cumberland,2/29/24,EA H5N1 -  - ,0,1,2
+"NJ, Essex",34013,New Jersey,Essex,2/17/23,EA H5N1 -  - ,0,1,1
+"NJ, Hudson",34017,New Jersey,Hudson,3/25/24,EA/AM H5N1 -  - ,0,1,1
+"NJ, Mercer",34021,New Jersey,Mercer,12/7/22,EA H5N1 -  - ,0,1,3
+"NJ, Middlesex",34023,New Jersey,Middlesex,6/21/24,EA/AM H5N1 -  - ,0,1,1
+"NJ, Monmouth",34025,New Jersey,Monmouth,5/23/23,EA/AM H5N1 -  - ,0,1,17
+"NJ, Ocean",34029,New Jersey,Ocean,6/4/24,EA/AM H5N1 -  - ,0,1,10
+"NJ, Salem",34033,New Jersey,Salem,1/16/25,EA H5 -  - ,0,1,10
+"NJ, Sussex",34037,New Jersey,Sussex,10/25/22,EA/AM H5N1 -  - ,0,1,16
+"NJ, Union",34039,New Jersey,Union,11/17/23,EA H5N1 -  - ,0,1,1
+"NJ, Warren",34041,New Jersey,Warren,1/22/25,EA H5 -  - ,0,1,8
+"NM, Bernalillo",35001,New Mexico,Bernalillo,10/27/22,EA H5N1 -  - ,1,1,1
+"NM, Chaves",35005,New Mexico,Chaves,12/4/24,EA/AM H5N1 -  - ,0,1,6
+"NM, Curry",35009,New Mexico,Curry,5/2/24,EA/AM H5N1 -  - ,0,1,3
+"NM, Eddy",35015,New Mexico,Eddy,2/14/23,EA/AM H5N1 -  - ,0,1,2
+"NM, Roosevelt",35041,New Mexico,Roosevelt,5/31/24,EA H5N1 -  - ,0,1,21
+"NM, San Miguel",35047,New Mexico,San Miguel,12/17/24,EA H5 -  - ,0,1,9
+"NM, Santa Fe",35049,New Mexico,Santa Fe,1/20/23,EA H5N1 -  - ,0,1,1
+"NM, Socorro",35053,New Mexico,Socorro,9/12/24,EA H5N1 -  - ,0,1,14
+"NY, Albany",36001,New York,Albany,1/31/23,EA/AM H5N1 -  - ,1,1,28
+"NY, Allegany",36003,New York,Allegany,3/20/24,EA/AM H5N1 -  - ,0,1,1
+"NY, Bronx",36005,New York,Bronx,1/24/25,EA H5 -  - ,0,1,8
+"NY, Cattaraugus",36009,New York,Cattaraugus,5/6/22,EA/AM H5N1 -  - ,0,1,1
+"NY, Cayuga",36011,New York,Cayuga,1/13/23,EA H5N1 -  - ,0,1,11
+"NY, Chautauqua",36013,New York,Chautauqua,3/13/23,EA H5N1 -  - ,0,1,4
+"NY, Chemung",36015,New York,Chemung,3/21/23,EA H5N1 -  - ,0,1,2
+"NY, Clinton",36019,New York,Clinton,1/3/23,EA/AM H5N1 -  - ,0,1,12
+"NY, Columbia",36021,New York,Columbia,4/25/23,EA/AM H5N1 -  - ,0,1,5
+"NY, Cortland",36023,New York,Cortland,9/30/22,EA H5N1 -  - ,0,1,2
+"NY, Dutchess",36027,New York,Dutchess,9/30/24,EA/AM H5N1 -  - ,0,1,8
+"NY, Erie",36029,New York,Erie,2/28/23,EA H5N1 -  - ,0,1,18
+"NY, Essex",36031,New York,Essex,12/9/22,EA/AM H5N1 -  - ,0,1,3
+"NY, Franklin",36033,New York,Franklin,1/3/23,EA/AM H5N1 -  - ,0,1,9
+"NY, Genesee",36037,New York,Genesee,10/25/22,EA H5N1 -  - ,0,1,31
+"NY, Herkimer",36043,New York,Herkimer,1/31/24,EA/AM H5N1 -  - ,0,1,2
+"NY, Jefferson",36045,New York,Jefferson,4/10/24,EA/AM H5N1 -  - ,0,1,13
+"NY, Kings",36047,New York,Kings,2/8/23,EA/AM H5N1 -  - ,0,1,4
+"NY, Lewis",36049,New York,Lewis,1/31/24,EA H5N1 -  - ,0,1,1
+"NY, Livingston",36051,New York,Livingston,2/21/24,EA/AM H5N1 -  - ,0,1,7
+"NY, Madison",36053,New York,Madison,10/7/22,EA/AM H5N1 -  - ,0,1,1
+"NY, Monroe",36055,New York,Monroe,5/5/22,EA H5 -  - ,0,1,14
+"NY, Nassau",36059,New York,Nassau,10/13/22,EA H5 -  - ,0,1,7
+"NY, Oneida",36065,New York,Oneida,9/23/22,EA/AM H5 mixed -  - ,0,1,28
+"NY, Onondaga",36067,New York,Onondaga,7/19/22,EA/AM H5N1 -  - ,0,1,35
+"NY, Ontario",36069,New York,Ontario,5/9/23,EA/AM H5N1 -  - ,0,1,2
+"NY, Orange",36071,New York,Orange,6/9/22,EA/AM H5N1 -  - ,0,1,9
+"NY, Orleans",36073,New York,Orleans,10/10/23,EA H5N1 -  - ,0,1,2
+"NY, Oswego",36075,New York,Oswego,5/17/22,EA H5N1 -  - ,0,1,1
+"NY, Putnam",36079,New York,Putnam,1/15/25,EA H5 -  - ,0,1,1
+"NY, Queens",36081,New York,Queens,9/6/24,EA H5N1 -  - ,0,1,1
+"NY, Rensselaer",36083,New York,Rensselaer,3/4/24,EA H5N1 -  - ,0,1,6
+"NY, Rockland",36087,New York,Rockland,5/20/22,EA H5N1 -  - ,0,1,6
+"NY, St Lawrence",36089,New York,St. Lawrence,6/29/22,EA/AM H5N1 -  - ,0,1,6
+"NY, Saratoga",36091,New York,Saratoga,1/10/23,EA/AM H5N1 -  - ,0,1,8
+"NY, Schenectady",36093,New York,Schenectady,3/14/24,EA/AM H5N1 -  - ,0,1,3
+"NY, Schoharie",36095,New York,Schoharie,5/12/22,EA/AM H5N1 -  - ,0,1,2
+"NY, Schuyler",36097,New York,Schuyler,5/11/23,EA/AM H5N1 -  - ,0,1,1
+"NY, Seneca",36099,New York,Seneca,12/16/22,EA H5N1 -  - ,0,1,62
+"NY, Steuben",36101,New York,Steuben,3/2/23,EA/AM H5N1 -  - ,0,1,4
+"NY, Suffolk",36103,New York,Suffolk,5/17/22,EA H5N1 -  - ,0,1,37
+"NY, Sullivan",36105,New York,Sullivan,12/5/22,EA/AM H5N1 -  - ,0,1,5
+"NY, Tompkins",36109,New York,Tompkins,2/16/23,EA H5N1 -  - ,0,1,16
+"NY, Ulster",36111,New York,Ulster,11/15/22,EA H5N1 -  - ,0,1,1
+"NY, Warren",36113,New York,Warren,5/17/22,EA H5N1 -  - ,0,1,2
+"NY, Washington",36115,New York,Washington,9/2/22,EA H5N1 -  - ,0,1,5
+"NY, Wayne",36117,New York,Wayne,4/5/22,EA/AM H5N1 -  - ,0,1,5
+"NY, Westchester",36119,New York,Westchester,11/3/22,EA/AM H5N1 -  - ,0,1,2
+"NY, Wyoming",36121,New York,Wyoming,5/8/23,EA/AM H5N1 -  - ,0,1,3
+"NY, Yates",36123,New York,Yates,12/22/22,EA/AM H5N1 -  - ,0,1,35
+"NC, Beaufort",37013,North Carolina,Beaufort,10/1/24,EA H5N1 -  - ,1,1,29
+"NC, Bertie",37015,North Carolina,Bertie,1/25/24,EA H5N1 -  - ,0,1,1
+"NC, Bladen",37017,North Carolina,Bladen,2/8/22,EA H5 -  - ,0,1,4
+"NC, Brunswick",37019,North Carolina,Brunswick,1/31/23,EA H5N1 -  - ,0,1,2
+"NC, Buncombe",37021,North Carolina,Buncombe,3/19/24,EA/AM H5N1 -  - ,0,1,5
+"NC, Camden",37029,North Carolina,Camden,1/12/23,EA/AM H5N1 -  - ,0,1,1
+"NC, Carteret",37031,North Carolina,Carteret,1/25/24,EA H5N1 -  - ,0,1,4
+"NC, Chatham",37037,North Carolina,Chatham,2/27/23,EA H5N1 -  - ,0,1,3
+"NC, Craven",37049,North Carolina,Craven,4/9/24,EA/AM H5N1 -  - ,0,1,4
+"NC, Currituck",37053,North Carolina,Currituck,2/16/22,EA H5N1 -  - ,0,1,12
+"NC, Dare",37055,North Carolina,Dare,3/19/24,EA/AM H5N1 -  - ,0,1,10
+"NC, Davidson",37057,North Carolina,Davidson,3/18/22,EA/AM H5N1 -  - ,0,1,1
+"NC, Durham",37063,North Carolina,Durham,11/8/22,EA H5N1 -  - ,0,1,2
+"NC, Granville",37077,North Carolina,Granville,11/17/22,EA/AM H5N1 -  - ,0,1,1
+"NC, Guilford",37081,North Carolina,Guilford,12/16/22,EA/AM H5N1 -  - ,0,1,1
+"NC, Haywood",37087,North Carolina,Haywood,11/17/22,EA/AM H5N1 -  - ,0,1,1
+"NC, Hyde",37095,North Carolina,Hyde,2/16/22,EA H5 -  - ,0,1,95
+"NC, Johnston",37101,North Carolina,Johnston,12/12/22,EA/AM H5N1 -  - ,0,1,2
+"NC, Jones",37103,North Carolina,Jones,1/12/23,EA H5N1 -  - ,0,1,1
+"NC, Mecklenburg",37119,North Carolina,Mecklenburg,3/27/24,EA/AM H5N1 -  - ,0,1,2
+"NC, Onslow",37133,North Carolina,Onslow,11/17/22,EA/AM H5N1 -  - ,0,1,2
+"NC, Orange",37135,North Carolina,Orange,11/28/22,EA/AM H5N1 -  - ,0,1,2
+"NC, Pamlico",37137,North Carolina,Pamlico,2/1/24,EA/AM H5N1 -  - ,0,1,135
+"NC, Rutherford",37161,North Carolina,Rutherford,11/17/22,EA/AM H5N1 -  - ,0,1,3
+"NC, Tyrrell",37177,North Carolina,Tyrrell,1/16/25,EA H5 -  - ,0,1,1
+"NC, Union",37179,North Carolina,Union,2/27/23,EA H5N1 -  - ,0,1,2
+"NC, Wake",37183,North Carolina,Wake,3/4/22,EA/AM H5N1 -  - ,0,1,10
+"NC, Washington",37187,North Carolina,Washington,1/9/23,EA H5N1 -  - ,0,1,2
+"NC, Wayne",37191,North Carolina,Wayne,2/5/24,EA H5N1 -  - ,0,1,1
+"ND, Benson",38005,North Dakota,Benson,11/17/23,EA/AM H5N1 -  - ,1,1,35
+"ND, Bottineau",38009,North Dakota,Bottineau,5/13/22,EA/AM H5N1 -  - ,0,1,9
+"ND, Burleigh",38015,North Dakota,Burleigh,10/31/23,EA H5N1 -  - ,0,1,31
+"ND, Cass",38017,North Dakota,Cass,11/9/22,EA/AM H5N1 -  - ,0,1,6
+"ND, Dickey",38021,South Dakota,Dickey,11/21/23,EA H5N1 -  - ,0,1,8
+"ND, Divide",38023,North Dakota,Divide,5/3/22,EA/AM H5N1 -  - ,0,1,4
+"ND, Dunn",38025,North Dakota,Dunn,9/13/22,EA H5N1 -  - ,0,1,30
+"ND, Eddy",38027,North Dakota,Eddy,8/31/23,EA/AM H5N1 -  - ,0,1,1
+"ND, Emmons",38029,North Dakota,Emmons,4/12/22,EA H5N1 -  - ,0,1,39
+"ND, Foster",38031,North Dakota,Foster,3/31/22,EA H5N1 -  - ,0,1,23
+"ND, Grand Forks",38035,North Dakota,Grand Forks,4/12/22,EA/AM H5N1 -  - ,0,1,2
+"ND, Grant",38037,North Dakota,Grant,4/19/22,EA/AM H5N1 -  - ,0,1,2
+"ND, Hettinger",38041,North Dakota,Hettinger,5/23/22,EA/AM H5N1 -  - ,0,1,3
+"ND, Kidder",38043,North Dakota,Kidder,11/9/23,EA/AM H5N1 -  - ,0,1,6
+"ND, La Moure",38045,North Dakota,LaMoure,8/28/24,EA/AM H5N1 -  - ,0,1,12
+"ND, Logan",38047,North Dakota,Logan,10/13/22,EA/AM H5N1 -  - ,0,1,6
+"ND, Mchenry",38049,North Dakota,McHenry,4/14/22,EA/AM H5N1 -  - ,0,1,18
+"ND, Mckenzie",38053,North Dakota,McKenzie,10/17/22,EA/AM H5N1 -  - ,0,1,1
+"ND, Mclean",38055,North Dakota,McLean,4/15/22,EA/AM H5N1 -  - ,0,1,1
+"ND, Mercer",38057,North Dakota,Mercer,4/6/22,EA/AM H5N1 -  - ,0,1,7
+"ND, Morton",38059,North Dakota,Morton,5/20/22,EA/AM H5N1 -  - ,0,1,1
+"ND, Nelson",38063,North Dakota,Nelson,9/8/22,EA/AM H5N1 -  - ,0,1,1
+"ND, Oliver",38065,North Dakota,Oliver,2/4/25,EA H5 -  - ,0,1,5
+"ND, Pierce",38069,North Dakota,Pierce,4/19/22,EA/AM H5N1 -  - ,0,1,5
+"ND, Ramsey",38071,North Dakota,Ramsey,11/17/23,EA H5N1 -  - ,0,1,57
+"ND, Ransom",38073,North Dakota,Ransom,4/26/22,EA/AM H5N1 -  - ,0,1,1
+"ND, Renville",38075,North Dakota,Renville,4/14/22,EA/AM H5N1 -  - ,0,1,8
+"ND, Richland",38077,North Dakota,Richland,12/26/24,EA/AM H5N1 -  - ,0,1,2
+"ND, Rolette",38079,North Dakota,Rolette,4/15/22,EA H5N1 -  - ,0,1,1
+"ND, Sargent",38081,North Dakota,Sargent,4/26/22,EA/AM H5N1 -  - ,0,1,6
+"ND, Sheridan",38083,North Dakota,Sheridan,4/19/22,EA/AM H5N1 -  - ,0,1,7
+"ND, Slope",38087,North Dakota,Slope,5/9/22,EA H5N1 -  - ,0,1,1
+"ND, Stark",38089,North Dakota,Stark,12/4/23,EA H5N1 -  - ,0,1,4
+"ND, Steele",38091,North Dakota,Steele,5/20/22,EA H5N1 -  - ,0,1,1
+"ND, Stutsman",38093,North Dakota,Stutsman,4/19/22,EA H5N1 -  - ,0,1,70
+"ND, Towner",38095,North Dakota,Towner,5/27/22,EA/AM H5N1 -  - ,0,1,44
+"ND, Ward",38101,North Dakota,Ward,4/6/22,EA H5N1 -  - ,0,1,9
+"ND, Wells",38103,North Dakota,Wells,4/6/22,EA H5N1 -  - ,0,1,6
+"ND, Williams",38105,North Dakota,Williams,5/3/22,EA H5N1 -  - ,0,1,1
+"OH, Auglaize",39011,Ohio,Auglaize,4/15/22,EA/AM H5N1 -  - ,1,1,1
+"OH, Brown",39015,Ohio,Macon,12/19/23,EA H5N1 -  - ,0,1,1
+"OH, Clermont",39025,Ohio,Clermont,11/28/22,EA/AM H5N1 -  - ,0,1,1
+"OH, Clinton",39027,Ohio,Clinton,4/15/22,EA/AM H5N1 -  - ,0,1,1
+"OH, Cuyahoga",39035,Ohio,Cuyahoga,3/28/22,EA/AM H5N1 -  - ,0,1,6
+"OH, Delaware",39041,Ohio,Delaware,9/30/22,EA H5N1 -  - ,0,1,7
+"OH, Erie",39043,Ohio,Erie,3/10/22,EA/AM H5N1 -  - ,0,1,1
+"OH, Franklin",39049,Ohio,Franklin,10/6/22,EA H5N1 -  - ,0,1,1
+"OH, Greene",39057,Ohio,Greene,12/2/23,EA H5N1 -  - ,0,1,1
+"OH, Guernsey",39059,Ohio,Guernsey,3/24/22,EA/AM H5N1 -  - ,0,1,1
+"OH, Lake",39085,Ohio,Lake,3/20/23,EA/AM H5N1 -  - ,0,1,2
+"OH, Mercer",39107,Ohio,Mercer,1/21/25,EA/AM H5N1 -  - ,0,1,1
+"OH, Miami",39109,Ohio,Miami,4/13/23,EA H5 -  - ,0,1,1
+"OH, Montgomery",39113,Ohio,Montgomery,4/15/22,EA/AM H5N1 -  - ,0,1,1
+"OH, Muskingum",39119,Ohio,Muskingum,1/22/25,EA H5 -  - ,0,1,6
+"OH, Ottawa",39123,Ohio,Ottawa,10/28/22,EA H5N1 -  - ,0,1,133
+"OH, Pickaway",39129,Ohio,Pickaway,1/30/25,EA H5 -  - ,0,1,1
+"OH, Sandusky",39143,Ohio,Sandusky,3/14/22,EA/AM H5N1 -  - ,0,1,10
+"OH, Stark",39151,Ohio,Stark,3/20/23,EA/AM H5N1 -  - ,0,1,4
+"OH, Summit",39153,Ohio,Summit,9/16/22,EA H5N1 -  - ,0,1,3
+"OH, Wayne",39169,Ohio,Wayne,9/5/24,EA H5N1 -  - ,0,1,3
+"OH, Wood",39173,Ohio,Wood,2/29/24,EA H5N1 -  - ,0,1,1
+"OK, Oklahoma",40109,Oklahoma,Oklahoma,10/17/22,EA H5 -  - ,1,1,3
+"OK, Payne",40119,Oklahoma,Payne,3/28/22,EA H5 -  - ,0,1,5
+"OK, Rogers",40131,Oklahoma,Rogers,1/13/23,EA H5N1 -  - ,0,1,1
+"OK, Sequoyah",40135,Oklahoma,Sequoyah,11/21/24,EA/AM H5N1 -  - ,0,1,46
+"OK, Tillman",40141,Oklahoma,Tillman,9/23/22,EA H5N1 -  - ,0,1,37
+"OK, Washington",40147,Oklahoma,Washington,11/21/24,EA/AM H5N1 -  - ,0,1,13
+"OR, Baker",41001,Oregon,Baker,9/9/22,EA H5N1 -  - ,1,1,2
+"OR, Benton",41003,Oregon,Benton,11/28/22,EA H5N1 -  - ,0,1,12
+"OR, Clackamas",41005,Oregon,Clackamas,12/4/24,EA H5 -  - ,0,1,11
+"OR, Clatsop",41007,Oregon,Clatsop,10/31/22,EA H5N1 -  - ,0,1,26
+"OR, Columbia",41009,Oregon,Columbia,11/21/22,EA H5N1 -  - ,0,1,92
+"OR, Coos",41011,Oregon,Coos,11/21/22,EA H5N1 -  - ,0,1,3
+"OR, Crook",41013,Oregon,Crook,10/23/23,EA/AM H5N1 -  - ,0,1,8
+"OR, Deschutes",41017,Oregon,Deschutes,1/12/23,EA/AM H5N1 -  - ,0,1,6
+"OR, Douglas",41019,Oregon,Douglas,1/25/24,EA H5N1 -  - ,0,1,3
+"OR, Harney",41025,Oregon,Harney,9/28/22,EA/AM H5N1 -  - ,0,1,6
+"OR, Jackson",41029,Oregon,Jackson,1/31/23,EA H5N1 -  - ,0,1,6
+"OR, Josephine",41033,Oregon,Josephine,10/27/22,EA H5N1 -  - ,0,1,2
+"OR, Klamath",41035,Oregon,Klamath,11/1/22,EA H5N1 -  - ,0,1,56
+"OR, Lake",41037,Oregon,Lake,11/1/23,EA/AM H5N1 -  - ,0,1,93
+"OR, Lane",41039,Oregon,Lane,11/28/22,EA/AM H5N1 -  - ,0,1,25
+"OR, Lincoln",41041,Oregon,Lincoln,12/2/24,EA/AM H5N1 -  - ,0,1,9
+"OR, Linn",41043,Oregon,Linn,8/28/24,EA H5N1 -  - ,0,1,1
+"OR, Malheur",41045,Oregon,Malheur,6/27/23,EA H5N1 -  - ,0,1,3
+"OR, Marion",41047,Oregon,Marion,11/13/23,EA H5N1 -  - ,0,1,17
+"OR, Morrow",41049,Oregon,Morrow,10/26/23,EA H5N1 -  - ,0,1,106
+"OR, Multnomah",41051,Oregon,Multnomah,3/17/23,EA H5 -  - ,0,1,21
+"OR, Polk",41053,Oregon,Polk,11/26/23,EA/AM H5N1 -  - ,0,1,3
+"OR, Tillamook",41057,Oregon,Tillamook,12/1/23,EA H5 -  - ,0,1,5
+"OR, Umatilla",41059,Oregon,Umatilla,12/8/22,EA H5N1 -  - ,0,1,6
+"OR, Union",41061,Oregon,Union,12/15/22,EA/AM H5N1 -  - ,0,1,3
+"OR, Wallowa",41063,Oregon,Wallowa,10/25/22,EA H5 -  - ,0,1,2
+"OR, Wasco",41065,Oregon,Wasco,6/23/23,EA H5N1 -  - ,0,1,3
+"OR, Washington",41067,Oregon,Washington,8/18/22,EA H5N1 -  - ,0,1,17
+"PA, Adams",42001,Pennsylvania,Adams,12/15/22,EA/AM H5N1 -  - ,1,1,4
+"PA, Allegheny",42003,Pennsylvania,Allegheny,2/27/23,EA/AM H5N1 -  - ,0,1,2
+"PA, Berks",42011,Pennsylvania,Berks,12/15/22,EA/AM H5N1 -  - ,0,1,7
+"PA, Blair",42013,Pennsylvania,Blair,5/16/23,EA/AM H5N1 -  - ,0,1,1
+"PA, Bucks",42017,Pennsylvania,Bucks,12/15/22,EA/AM H5N1 -  - ,0,1,3
+"PA, Butler",42019,Pennsylvania,Butler,12/6/22,EA H5N1 -  - ,0,1,3
+"PA, Carbon",42025,Pennsylvania,Carbon,12/15/22,EA/AM H5N1 -  - ,0,1,1
+"PA, Centre",42027,Pennsylvania,Centre,3/8/23,EA H5N1 -  - ,0,1,4
+"PA, Chester",42029,Pennsylvania,Chester,9/19/22,EA H5N1 -  - ,0,1,10
+"PA, Columbia",42037,Pennsylvania,Columbia,7/15/22,EA H5N1 -  - ,0,1,4
+"PA, Crawford",42039,Pennsylvania,Crawford,6/21/22,EA/AM H5N1 -  - ,0,1,9
+"PA, Cumberland",42041,Pennsylvania,Cumberland,11/8/22,EA H5N1 -  - ,0,1,5
+"PA, Dauphin",42043,Pennsylvania,Dauphin,8/24/22,EA H5N1 -  - ,0,1,15
+"PA, Delaware",42045,Pennsylvania,Delaware,1/5/24,EA H5N1 -  - ,0,1,2
+"PA, Erie",42049,Pennsylvania,Erie,2/29/24,EA H5N1 -  - ,0,1,7
+"PA, Fayette",42051,Pennsylvania,Fayette,1/30/24,EA/AM H5N1 -  - ,0,1,1
+"PA, Franklin",42055,Pennsylvania,Franklin,4/19/22,EA/AM H5N1 -  - ,0,1,6
+"PA, Huntingdon",42061,Pennsylvania,Huntingdon,5/16/23,EA/AM H5N1 -  - ,0,1,1
+"PA, Lackawanna",42069,Pennsylvania,Lackawanna,9/29/22,EA H5N1 -  - ,0,1,6
+"PA, Lancaster",42071,Pennsylvania,Lancaster,5/16/23,EA/AM H5N1 -  - ,0,1,20
+"PA, Lebanon",42075,Pennsylvania,Lebanon,1/30/24,EA/AM H5N1 -  - ,0,1,2
+"PA, Lehigh",42077,Pennsylvania,Lehigh,12/15/22,EA/AM H5N1 -  - ,0,1,2
+"PA, Mercer",42085,Pennsylvania,Mercer,1/30/24,EA H5N1 -  - ,0,1,2
+"PA, Monroe",42089,Pennsylvania,Monroe,5/2/24,EA/AM H5N1 -  - ,0,1,3
+"PA, Montgomery",42091,Pennsylvania,Montgomery,6/9/22,EA/AM H5N1 -  - ,0,1,6
+"PA, Northampton",42095,Pennsylvania,Northampton,10/4/22,EA H5N1 -  - ,0,1,5
+"PA, Potter",42105,Pennsylvania,Potter,12/15/22,EA H5N1 -  - ,0,1,1
+"PA, Schuylkill",42107,Pennsylvania,Schuylkill,5/16/23,EA/AM H5N1 -  - ,0,1,3
+"PA, Tioga",42117,Pennsylvania,Tioga,2/27/23,EA/AM H5N1 -  - ,0,1,3
+"PA, Union",42119,Pennsylvania,Union,2/29/24,EA/AM H5N1 -  - ,0,1,1
+"PA, Venango",42121,Pennsylvania,Venango,3/28/22,EA H5N1 -  - ,0,1,6
+"PA, Wayne",42127,Pennsylvania,Wayne,6/27/23,EA H5N1 -  - ,0,1,1
+"PA, Wyoming",42131,Pennsylvania,Wyoming,2/21/24,EA/AM H5N1 -  - ,0,1,1
+"PA, York",42133,Pennsylvania,York,9/5/24,EA/AM H5N1 -  - ,0,1,2
+"RI, Bristol",44001,Rhode Island,Bristol,5/21/24,EA/AM H5N1 -  - ,1,1,1
+"RI, Kent",44003,Rhode Island,Kent,3/1/24,EA H5N1 -  - ,0,1,6
+"RI, Newport",44005,Rhode Island,Newport,3/4/24,EA H5 -  - ,0,1,5
+"RI, Providence",44007,Rhode Island,Providence,2/14/23,EA H5N1 -  - ,0,1,3
+"RI, Washington",44009,Rhode Island,Washington,11/25/22,EA/AM H5N1 -  - ,0,1,8
+"SC, Aiken",45003,South Carolina,Aiken,11/3/22,EA H5N1 -  - ,1,1,9
+"SC, Anderson",45007,South Carolina,Anderson,2/22/23,EA/AM H5N1 -  - ,0,1,3
+"SC, Berkeley",45015,South Carolina,Berkeley,9/20/24,EA/AM H5N1 -  - ,0,1,7
+"SC, Charleston",45019,South Carolina,Charleston,12/2/23,EA/AM H5N1 -  - ,0,1,56
+"SC, Chester",45023,South Carolina,Chester,12/12/22,EA/AM H5N1 -  - ,0,1,1
+"SC, Clarendon",45027,South Carolina,Clarendon,1/29/24,EA H5N1 -  - ,0,1,6
+"SC, Colleton",45029,South Carolina,Colleton,1/26/22,EA H5 -  - ,0,1,95
+"SC, Fairfield",45039,South Carolina,Fairfield,11/26/23,EA H5N1 -  - ,0,1,5
+"SC, Georgetown",45043,South Carolina,Georgetown,1/29/24,EA H5N1 -  - ,0,1,2
+"SC, Hampton",45049,South Carolina,Hampton,1/29/24,EA H5N1 -  - ,0,1,1
+"SC, Horry",45051,South Carolina,Horry,2/29/24,EA/AM H5N1 -  - ,0,1,2
+"SC, Jasper",45053,South Carolina,Jasper,12/26/23,EA/AM H5N1 -  - ,0,1,4
+"SC, Laurens",45059,South Carolina,Laurens,10/19/22,EA/AM H5N1 -  - ,0,1,2
+"SC, Lexington",45063,South Carolina,Lexington,9/9/22,EA H5N1 -  - ,0,1,12
+"SC, Mccormick",45065,South Carolina,McCormick,9/9/22,EA H5N1 -  - ,0,1,1
+"SC, Orangeburg",45075,South Carolina,Orangeburg,9/30/24,EA H5N1 -  - ,0,1,4
+"SC, Richland",45079,South Carolina,Richland,9/23/24,EA H5N1 -  - ,0,1,8
+"SC, Spartanburg",45083,South Carolina,Spartanburg,11/17/22,EA H5N1 -  - ,0,1,2
+"SC, Williamsburg",45089,South Carolina,Williamsburg,8/14/24,EA/AM H5N1 -  - ,0,1,2
+"SD, Aurora",46003,South Dakota,Aurora,3/31/22,EA H5N1 -  - ,1,1,32
+"SD, Beadle",46005,South Dakota,Beadle,10/25/22,EA H5N1 -  - ,0,1,23
+"SD, Brookings",46011,South Dakota,Brookings,12/2/22,EA/AM H5N1 -  - ,0,1,2
+"SD, Brown",46013,South Dakota,Brown,5/11/22,EA/AM H5N1 -  - ,0,1,16
+"SD, Brule",46015,South Dakota,Brule,12/11/24,EA H5 -  - ,0,1,1
+"SD, Butte",46019,South Dakota,Butte,1/9/23,EA/AM H5N1 -  - ,0,1,2
+"SD, Charles Mix",46023,South Dakota,Charles Mix,3/18/22,EA/AM H5N1 -  - ,0,1,5
+"SD, Clark",46025,South Dakota,Clark,12/6/22,EA/AM H5N1 -  - ,0,1,5
+"SD, Codington",46029,South Dakota,Codington,3/28/22,EA/AM H5N1 -  - ,0,1,3
+"SD, Davison",46035,South Dakota,Davison,12/2/22,EA H5N1 -  - ,0,1,2
+"SD, Day",46037,South Dakota,Day,3/28/22,EA H5N1 -  - ,0,1,1
+"SD, Fall River",46047,South Dakota,Fall River,9/27/23,EA/AM H5N1 -  - ,0,1,3
+"SD, Faulk",46049,South Dakota,Faulk,4/8/22,EA H5N1 -  - ,0,1,2
+"SD, Hand",46059,South Dakota,Hand,12/22/22,EA/AM H5N1 -  - ,0,1,4
+"SD, Hanson",46061,South Dakota,Hanson,12/2/22,EA H5N1 -  - ,0,1,1
+"SD, Hughes",46065,South Dakota,Hughes,2/22/23,EA/AM H5N1 -  - ,0,1,4
+"SD, Kingsbury",46077,South Dakota,Kingsbury,5/6/22,EA H5N1 -  - ,0,1,2
+"SD, Lake",46079,South Dakota,Lake,4/12/22,EA/AM H5N1 -  - ,0,1,2
+"SD, Lincoln",46083,South Dakota,Lincoln,12/6/22,EA H5N1 -  - ,0,1,2
+"SD, Lyman",46085,South Dakota,Lyman,12/6/22,EA H5N1 -  - ,0,1,2
+"SD, Mccook",46087,South Dakota,McCook,12/9/22,EA/AM H5N1 -  - ,0,1,3
+"SD, Mcpherson",46089,South Dakota,McPherson,11/21/23,EA/AM H5N1 -  - ,0,1,4
+"SD, Meade",46093,South Dakota,Meade,5/2/22,EA/AM H5N1 -  - ,0,1,1
+"SD, Miner",46097,South Dakota,Miner,11/28/22,EA/AM H5N1 -  - ,0,1,1
+"SD, Minnehaha",46099,South Dakota,Minnehaha,12/12/24,EA H5 -  - ,0,1,5
+"SD, Pennington",46103,South Dakota,Pennington,10/25/22,EA H5N1 -  - ,0,1,6
+"SD, Perkins",46105,South Dakota,Perkins,9/19/22,EA H5N1 -  - ,0,1,2
+"SD, Potter",46107,South Dakota,Potter,10/27/23,EA H5N1 -  - ,0,1,21
+"SD, Sanborn",46111,South Dakota,Sanborn,11/20/23,EA H5 -  - ,0,1,9
+"SD, Spink",46115,South Dakota,Spink,11/25/22,EA/AM H5N1 -  - ,0,1,1
+"SD, Stanley",46117,South Dakota,Stanley,3/24/22,EA/AM H5N1 -  - ,0,1,6
+"SD, Sully",46119,South Dakota,Sully,2/22/23,EA/AM H5N1 -  - ,0,1,1
+"SD, Walworth",46129,South Dakota,Walworth,9/5/24,EA/AM H5N1 -  - ,0,1,2
+"SD, Yankton",46135,South Dakota,Yankton,8/28/24,EA/AM H5N1 -  - ,0,1,1
+"TN, Anderson",47001,Tennessee,Anderson,11/28/22,EA/AM H5N1 -  - ,1,1,1
+"TN, Cumberland",47035,Tennessee,Cumberland,11/25/22,EA H5N1 -  - ,0,1,1
+"TN, Davidson",47037,Tennessee,Davidson,4/12/22, -  - ,0,1,1
+"TN, Dyer",47045,Tennessee,Dyer,1/2/25,EA/AM H5N1 -  - ,0,1,6
+"TN, Gibson",47053,Tennessee,Gibson,1/2/25,EA H5 -  - ,0,1,4
+"TN, Greene",47059,Tennessee,Greene,12/12/22,EA/AM H5N1 -  - ,0,1,2
+"TN, Hamblen",47063,Tennessee,Hamblen,1/12/23,EA/AM H5N1 -  - ,0,1,1
+"TN, Hamilton",47065,Tennessee,Hamilton,1/11/23,EA H5N1 -  - ,0,1,1
+"TN, Hawkins",47073,Tennessee,Hawkins,1/24/23,EA H5N1 -  - ,0,1,1
+"TN, Humphreys",47085,Tennessee,Humphreys,1/16/25,EA H5 -  - ,0,1,8
+"TN, Jefferson",47089,Tennessee,Jefferson,12/9/22,EA/AM H5N1 -  - ,0,1,4
+"TN, Knox",47093,Tennessee,Knox,5/12/22,EA H5N1 -  - ,0,1,1
+"TN, Lake",47095,Tennessee,Lake,9/15/22,EA H5N1 -  - ,0,1,21
+"TN, Lauderdale",47097,Tennessee,Lauderdale,1/2/25,EA/AM H5N1 -  - ,0,1,1
+"TN, Lincoln",47103,Tennessee,Lincoln,11/26/23,EA H5N1 -  - ,0,1,2
+"TN, Obion",47131,Tennessee,Obion,12/16/24,EA H5 -  - ,0,1,15
+"TN, Robertson",47147,Tennessee,Robertson,12/16/22,EA/AM H5N1 -  - ,0,1,1
+"TN, Shelby",47157,Tennessee,Shelby,11/25/22,EA H5N1 -  - ,0,1,1
+"TN, Tipton",47167,Tennessee,Tipton,1/2/25,EA/AM H5N1 -  - ,0,1,1
+"TN, Wilson",47189,Tennessee,Wilson,1/24/23,EA H5N1 -  - ,0,1,1
+"TX, Aransas",48007,Texas,Aransas,10/25/22,EA H5N1 -  - ,1,1,1
+"TX, Bexar",48029,Texas,Bexar,10/27/23,EA H5N1 -  - ,0,1,2
+"TX, Bosque",48035,Texas,Bosque,12/15/22,EA/AM H5N1 -  - ,0,1,2
+"TX, Carson",48065,Texas,Carson,1/13/23,EA/AM H5N1 -  - ,0,1,3
+"TX, Chambers",48071,Texas,Chambers,12/22/22,EA H5N1 -  - ,0,1,53
+"TX, Colorado",48089,Texas,Colorado,1/31/23,EA H5N1 -  - ,0,1,28
+"TX, Denton",48121,Texas,Denton,11/26/23,EA H5N1 -  - ,0,1,1
+"TX, Ector",48135,Texas,Ector,2/21/24,EA/AM H5N1 -  - ,0,1,1
+"TX, El Paso",48141,Texas,El Paso,10/12/22,EA H5 -  - ,0,1,3
+"TX, Freestone",48161,Texas,Freestone,10/11/22,EA H5 -  - ,0,1,52
+"TX, Hale",48189,Texas,Hale,3/25/24,EA/AM H5N1 -  - ,0,1,21
+"TX, Hartley",48205,Texas,Hartley,3/25/24,EA/AM H5N1 -  - ,0,1,2
+"TX, Jefferson",48245,Texas,Jefferson,3/10/23,EA H5N1 -  - ,0,1,98
+"TX, Lubbock",48303,Texas,Lubbock,2/4/25,EA H5 -  - ,0,1,1
+"TX, Lynn",48305,Texas,Lynn,11/29/24,EA H5 -  - ,0,1,3
+"TX, Montague",48337,Texas,Montague,12/15/22,EA H5N1 -  - ,0,1,1
+"TX, Montgomery",48339,Texas,Shenandoah,8/20/24,EA H5N1 -  - ,0,1,1
+"TX, Nueces",48355,Texas,Nueces,10/12/23,EA/AM H5N1 -  - ,0,1,2
+"TX, Orange",48361,Texas,Orange,5/16/23,EA/AM H5N1 -  - ,0,1,62
+"TX, Randall",48381,Texas,Randall,12/15/22,EA H5N1 -  - ,0,1,4
+"TX, Red River",48387,Texas,Red River,10/7/22,EA H5N1 -  - ,0,1,19
+"TX, Smith",48423,Texas,Smith,10/11/22,EA/AM H5N1 -  - ,0,1,1
+"TX, Tarrant",48439,Texas,Tarrant,4/6/22,EA H5N1 -  - ,0,1,2
+"TX, Taylor",48441,Texas,Taylor,10/6/22,EA/AM H5N1 -  - ,0,1,3
+"TX, Travis",48453,Texas,Travis,1/27/25,EA/AM H5N1 -  - ,0,1,1
+"TX, Waller",48473,Texas,Waller,3/25/24,EA/AM H5N1 -  - ,0,1,1
+"TX, Wichita",48485,Texas,Wichita,5/2/22,EA H5N1 -  - ,0,1,1
+"UT, Box Elder",49003,Utah,Box Elder,1/8/25,EA H5 -  - ,1,1,43
+"UT, Cache",49005,Utah,Cache,12/16/24,EA H5N1 -  - ,0,1,105
+"UT, Carbon",49007,Utah,Carbon,5/20/22,EA/AM H5N1 -  - ,0,1,4
+"UT, Davis",49011,Utah,Davis,9/1/22,EA/AM H5N1 -  - ,0,1,54
+"UT, Duchesne",49013,Utah,Duchesne,1/13/23,EA H5N1 -  - ,0,1,5
+"UT, Emery",49015,Utah,Emery,12/18/24,EA H5 -  - ,0,1,1
+"UT, Millard",49027,Utah,Millard,3/31/23,EA H5 mixed -  - ,0,1,4
+"UT, Morgan",49029,Utah,Morgan,2/1/23,EA/AM H5N1 -  - ,0,1,1
+"UT, Salt Lake",49035,Utah,Salt Lake,6/10/22,EA/AM H5N1 -  - ,0,1,35
+"UT, Sanpete",49039,Utah,Sanpete,8/23/22,EA H5N1 -  - ,0,1,6
+"UT, Summit",49043,Utah,Wanship,2/13/23,EA H5 -  - ,0,1,1
+"UT, Tooele",49045,Utah,Tooele,9/23/22,EA H5N1 -  - ,0,1,4
+"UT, Utah",49049,Utah,Utah,12/16/24,EA H5 -  - ,0,1,9
+"UT, Weber",49057,Utah,Weber,1/13/23,EA/AM H5N1 -  - ,0,1,43
+"VT, Addison",50001,Vermont,Addison,6/3/22,EA H5N1 -  - ,1,1,40
+"VT, Bennington",50003,Vermont,Bennington,6/3/22,EA H5N1 -  - ,0,1,1
+"VT, Chittenden",50007,Vermont,Chittenden,9/13/22,EA H5N1 -  - ,0,1,38
+"VT, Essex",50009,Vermont,Essex,6/3/22,EA H5N1 -  - ,0,1,1
+"VT, Franklin",50011,Vermont,Franklin,4/7/22,EA H5N1 -  - ,0,1,1
+"VT, Grand Isle",50013,Vermont,Grand Isle,3/31/22,EA H5 -  - ,0,1,3
+"VT, Orange",50017,Vermont,Orange,5/23/22,EA H5N1 -  - ,0,1,1
+"VT, Orleans",50019,Vermont,Orleans,9/5/24,EA/AM H5N1 -  - ,0,1,3
+"VT, Rutland",50021,Vermont,Rutland,1/27/25,EA H5 -  - ,0,1,11
+"VT, Washington",50023,Vermont,Washington,4/19/22,EA/AM H5N1 -  - ,0,1,3
+"VA, Accomack",51001,Virginia,Accomack,3/8/23,EA/AM H5N1 -  - ,1,1,1
+"VA, Chesterfield",51041,Virginia,Chesterfield,10/19/22,EA/AM H5N1 -  - ,0,1,6
+"VA, Clarke",51043,Virginia,Clarke,3/1/24,EA H5N1 -  - ,0,1,2
+"VA, Essex",51057,Virginia,Essex,6/7/23,EA/AM H5N1 -  - ,0,1,7
+"VA, Fluvanna",51065,Virginia,Fluvanna,9/1/22,EA H5N1 -  - ,0,1,4
+"VA, Henrico",51087,Virginia,Henrico,1/2/25,EA H5 -  - ,0,1,30
+"VA, King George",51099,Virginia,King George,4/29/22,EA H5N1 -  - ,0,1,2
+"VA, King William",51101,Virginia,King William,1/2/25,EA H5 -  - ,0,1,3
+"VA, Loudoun",51107,Virginia,Loudoun,7/18/22,EA H5N1 -  - ,0,1,3
+"VA, Middlesex",51119,Virginia,Middlesex,1/6/25,EA/AM H5N1 -  - ,0,1,1
+"VA, Northampton",51131,Virginia,Northampton,3/24/23,EA/AM H5N1 -  - ,0,1,1
+"VA, Northumberland",51133,Virginia,Northumberland,1/6/25,EA/AM H5N1 -  - ,0,1,1
+"VA, Orange",51137,Virginia,Orange,9/1/22,EA H5N1 -  - ,0,1,3
+"VA, Pittsylvania",51143,Virginia,Pittsylvania,10/12/22,EA H5 -  - ,0,1,1
+"VA, Powhatan",51145,Virginia,Powhatan,2/21/24,EA/AM H5N1 -  - ,0,1,2
+"VA, Prince William",51153,Virginia,Prince William,2/14/23,EA/AM H5N1 -  - ,0,1,2
+"VA, Richmond",51159,Virginia,Richmond,4/9/24,EA H5N1 -  - ,0,1,1
+"VA, Roanoke",51161,Virginia,Roanoke,12/22/22,EA H5N1 -  - ,0,1,1
+"VA, Shenandoah",51171,Virginia,Shenandoah,1/5/24,EA H5N1 -  - ,0,1,1
+"VA, Spotsylvania",51177,Virginia,Spotsylvania,3/4/24,EA H5N1 -  - ,0,1,1
+"VA, Surry",51181,Virginia,Surry,12/4/23,EA H5N1 -  - ,0,1,18
+"VA, York",51199,Virginia,York,1/5/24,EA/AM H5N1 -  - ,0,1,1
+"VA, Chesapeake City",51550,Virginia,Chesapeake,10/31/23,EA/AM H5N1 -  - ,0,1,1
+"VA, Hampton City",51650,Virginia,Hampton,4/30/24,EA/AM H5N1 -  - ,0,1,5
+"VA, Norfolk City",51710,Virginia,Norfolk,4/10/24,EA/AM H5N1 -  - ,0,1,17
+"VA, Virginia Beach City",51810,Virginia,Virginia Beach,1/2/25,EA H5 -  - ,0,1,10
+"VA, Waynesboro City",51820,Virginia,Waynesboro,10/31/23,EA H5N1 -  - ,0,1,5
+"WA, Adams",53001,Washington,Adams,10/31/24,EA H5N1 -  - ,1,1,4
+"WA, Asotin",53003,Washington,Asotin,11/20/23,EA H5N1 -  - ,0,1,3
+"WA, Benton",53005,Washington,Benton,8/11/22,EA/AM H5N1 -  - ,0,1,11
+"WA, Chelan",53007,Washington,Chelan,6/27/23,EA H5N1 -  - ,0,1,2
+"WA, Clallam",53009,Washington,Clallam,11/14/24,EA/AM H5N1 -  - ,0,1,11
+"WA, Clark",53011,Washington,Clark,12/2/23,EA H5 -  - ,0,1,62
+"WA, Douglas",53017,Washington,Douglas,3/13/23,EA H5N1 -  - ,0,1,1
+"WA, Franklin",53021,Washington,Franklin,12/5/24,EA H5 -  - ,0,1,45
+"WA, Grant",53025,Washington,Grant,11/13/24,EA H5N1 -  - ,0,1,110
+"WA, Grays Harbor",53027,Washington,Grays Harbor,6/5/24,EA H5N1 -  - ,0,1,4
+"WA, Island",53029,Washington,Island,7/7/22,EA H5N1 -  - ,0,1,4
+"WA, Jefferson",53031,Washington,Jefferson,8/25/23,EA H5N1 -  - ,0,1,13
+"WA, King",53033,Washington,King,12/18/24,EA H5 -  - ,0,1,35
+"WA, Kitsap",53035,Washington,Kitsap,8/11/22,EA H5N1 -  - ,0,1,3
+"WA, Lewis",53041,Washington,Lewis,11/20/23,EA H5N1 -  - ,0,1,1
+"WA, Lincoln",53043,Washington,Lincoln,12/2/22,EA/AM H5N1 -  - ,0,1,1
+"WA, Pacific",53049,Washington,Pacific,12/16/22,EA H5N1 -  - ,0,1,4
+"WA, Pierce",53053,Washington,Pierce,5/13/22,EA/AM H5N1 -  - ,0,1,6
+"WA, San Juan",53055,Washington,San Juan,9/8/22,EA H5N1 -  - ,0,1,6
+"WA, Skagit",53057,Washington,Skagit,8/29/24,EA H5N1 -  - ,0,1,35
+"WA, Snohomish",53061,Washington,Snohomish,11/6/24,EA/AM H5N1 -  - ,0,1,19
+"WA, Spokane",53063,Washington,Spokane,5/25/22,EA H5N1 -  - ,0,1,3
+"WA, Stevens",53065,Washington,Stevens,5/6/22,EA H5N1 -  - ,0,1,1
+"WA, Thurston",53067,Washington,Thurston,11/21/22,EA H5N1 -  - ,0,1,3
+"WA, Wahkiakum",53069,Washington,Wahkiakum,7/31/23,EA H5N1 -  - ,0,1,1
+"WA, Walla Walla",53071,Washington,Walla Walla,1/3/23,EA/AM H5N1 -  - ,0,1,9
+"WA, Whatcom",53073,Washington,Whatcom,9/16/22,EA H5N1 -  - ,0,1,24
+"WA, Whitman",53075,Washington,Whitman,1/20/23,EA H5N1 -  - ,0,1,8
+"WA, Yakima",53077,Washington,Yakima,9/13/22,EA H5N1 -  - ,0,1,57
+"WV, Jefferson",54037,West Virginia,Jefferson,5/23/23,EA H5N1 -  - ,1,1,2
+"WV, Marion",54049,West Virginia,Marion,1/22/25,EA H5 -  - ,0,1,3
+"WV, Pocahontas",54075,West Virginia,Pocahontas,12/16/22,EA H5N1 -  - ,0,1,1
+"WI, Barron",55005,Wisconsin,Barron,5/12/22,EA/AM H5N1 -  - ,1,1,4
+"WI, Bayfield",55007,Wisconsin,Bayfield,5/26/22,EA/AM H5N1 -  - ,0,1,1
+"WI, Brown",55009,Wisconsin,Brown,12/2/23,EA/AM H5N1 -  - ,0,1,22
+"WI, Buffalo",55011,Wisconsin,Buffalo,5/12/22,EA/AM H5N1 -  - ,0,1,5
+"WI, Burnett",55013,Wisconsin,Burnett,10/25/22,EA H5 -  - ,0,1,32
+"WI, Calumet",55015,Wisconsin,Calumet,6/16/22,EA H5N1 -  - ,0,1,3
+"WI, Chippewa",55017,Wisconsin,Chippewa,5/12/22,EA H5N1 -  - ,0,1,2
+"WI, Clark",55019,Wisconsin,Clark,5/18/22,EA/AM H5N1 -  - ,0,1,3
+"WI, Columbia",55021,Wisconsin,Columbia,10/17/22,EA H5 -  - ,0,1,6
+"WI, Dane",55025,Wisconsin,Dane,4/15/22,EA/AM H5N1 -  - ,0,1,23
+"WI, Dodge",55027,Wisconsin,Dodge,4/26/22,EA/AM H5N1 -  - ,0,1,10
+"WI, Door",55029,Wisconsin,Door,6/24/22,EA/AM H5N1 -  - ,0,1,19
+"WI, Douglas",55031,Wisconsin,Douglas,5/12/22,EA/AM H5N1 -  - ,0,1,1
+"WI, Dunn",55033,Wisconsin,Dunn,5/12/22,EA/AM H5N1 -  - ,0,1,4
+"WI, Eau Claire",55035,Wisconsin,Eau Claire,5/19/22,EA/AM H5N1 -  - ,0,1,1
+"WI, Florence",55037,Wisconsin,Florence,5/12/22,EA H5N1 -  - ,0,1,1
+"WI, Fond Du Lac",55039,Wisconsin,Fond du Lac,4/20/22,EA/AM H5N1 -  - ,0,1,4
+"WI, Forest",55041,Wisconsin,Forest,10/7/22,EA H5N1 -  - ,0,1,1
+"WI, Grant",55043,Wisconsin,Grant,3/31/22,EA/AM H5N1 -  - ,0,1,1
+"WI, Green Lake",55047,Wisconsin,Green Lake,11/10/22,EA/AM H5N1 -  - ,0,1,3
+"WI, Jefferson",55055,Wisconsin,Jefferson,4/26/22,EA/AM H5N1 -  - ,0,1,1
+"WI, Juneau",55057,Wisconsin,Juneau,4/14/22,EA/AM H5N1 -  - ,0,1,2
+"WI, Kewaunee",55061,Wisconsin,Kewanee,4/13/23,EA/AM H5N1 -  - ,0,1,1
+"WI, La Crosse",55063,Wisconsin,La Crosse,12/2/23,EA H5N1 -  - ,0,1,35
+"WI, Lafayette",55065,Wisconsin,Lafayette,5/19/22,EA/AM H5N1 -  - ,0,1,1
+"WI, Langlade",55067,Wisconsin,Langlade,5/26/22,EA/AM H5N1 -  - ,0,1,3
+"WI, Lincoln",55069,Wisconsin,Lincoln,4/20/22,EA/AM H5N1 -  - ,0,1,4
+"WI, Manitowoc",55071,Wisconsin,Manitowoc,10/10/22,EA H5 -  - ,0,1,5
+"WI, Marathon",55073,Wisconsin,Marathon,11/21/23,EA H5N1 -  - ,0,1,6
+"WI, Marinette",55075,Wisconsin,Marinette,1/5/24,EA H5N1 -  - ,0,1,2
+"WI, Marquette",55077,Wisconsin,Marquette,5/19/22,EA/AM H5N1 -  - ,0,1,1
+"WI, Milwaukee",55079,Wisconsin,Milwaukee,5/4/22,EA/AM H5N1 -  - ,0,1,7
+"WI, Oconto",55083,Wisconsin,Oconto,11/21/24,EA H5N1 -  - ,0,1,2
+"WI, Outagamie",55087,Wisconsin,Outagamie,4/26/22,EA/AM H5N1 -  - ,0,1,1
+"WI, Pepin",55091,Wisconsin,Pepin,4/14/22,EA/AM H5N1 -  - ,0,1,2
+"WI, Pierce",55093,Wisconsin,Pierce,5/3/22,EA/AM H5N1 -  - ,0,1,3
+"WI, Polk",55095,Wisconsin,Polk,4/14/22,EA/AM H5N1 -  - ,0,1,5
+"WI, Portage",55097,Wisconsin,Portage,5/18/22,EA/AM H5N1 -  - ,0,1,3
+"WI, Price",55099,Wisconsin,Price,5/13/22,EA/AM H5N1 -  - ,0,1,1
+"WI, Racine",55101,Wisconsin,Racine,4/15/22,EA/AM H5N1 -  - ,0,1,1
+"WI, Richland",55103,Wisconsin,Richland,4/20/22,EA/AM H5N1 -  - ,0,1,1
+"WI, Rock",55105,Wisconsin,Rock,4/20/22,EA/AM H5N1 -  - ,0,1,2
+"WI, Rusk",55107,Wisconsin,Rusk,5/12/22,EA H5N1 -  - ,0,1,2
+"WI, St Croix",55109,Wisconsin,St. Croix,5/12/22,EA/AM H5N1 -  - ,0,1,10
+"WI, Sawyer",55113,Wisconsin,Sawyer,5/13/22,EA/AM H5N1 -  - ,0,1,1
+"WI, Shawano",55115,Wisconsin,Shawano,2/6/24,EA/AM H5N1 -  - ,0,1,6
+"WI, Sheboygan",55117,Wisconsin,Sheboygan,12/1/22,EA H5 -  - ,0,1,11
+"WI, Trempealeau",55121,Wisconsin,Trempealeau,5/4/22,EA H5N1 -  - ,0,1,3
+"WI, Vernon",55123,Wisconsin,Vernon,12/4/24,EA H5 -  - ,0,1,3
+"WI, Walworth",55127,Wisconsin,Walworth,5/4/22,EA/AM H5N1 -  - ,0,1,1
+"WI, Washburn",55129,Wisconsin,Washburn,5/12/22,EA/AM H5N1 -  - ,0,1,2
+"WI, Waukesha",55133,Wisconsin,Waukesha,9/23/22,EA/AM H5N1 -  - ,0,1,5
+"WI, Waupaca",55135,Wisconsin,Waupaca,5/12/22,EA H5N1 -  - ,0,1,1
+"WI, Winnebago",55139,Wisconsin,Winnebago,5/12/22,EA/AM H5N1 -  - ,0,1,9
+"WI, Wood",55141,Wisconsin,Wood,1/20/23,EA/AM H5N1 -  - ,0,1,2
+"WY, Albany",56001,Wyoming,Albany,10/19/22,EA/AM H5N1 -  - ,1,1,22
+"WY, Big Horn",56003,Wyoming,Big Horn,12/5/24,EA H5N1 -  - ,0,1,2
+"WY, Campbell",56005,Wyoming,Campbell,10/11/22,EA/AM H5N1 -  - ,0,1,8
+"WY, Carbon",56007,Wyoming,Carbon,5/2/22,EA/AM H5N1 -  - ,0,1,2
+"WY, Converse",56009,Wyoming,Converse,9/20/24,EA H5N1 -  - ,0,1,5
+"WY, Fremont",56013,Wyoming,Fremont,12/13/22,EA H5N1 -  - ,0,1,17
+"WY, Goshen",56015,Wyoming,Goshen,10/23/23,EA H5N1 mixed -  - ,0,1,22
+"WY, Hot Springs",56017,Wyoming,Hot Springs,1/24/23,EA H5N1 -  - ,0,1,3
+"WY, Johnson",56019,Wyoming,Johnson,9/20/22,EA H5N1 -  - ,0,1,18
+"WY, Laramie",56021,Wyoming,Laramie,10/11/22,EA/AM H5N1 -  - ,0,1,8
+"WY, Lincoln",56023,Wyoming,Lincoln,11/20/23,EA H5N1 -  - ,0,1,1
+"WY, Natrona",56025,Wyoming,Natrona,10/26/23,EA/AM H5N1 -  - ,0,1,7
+"WY, Park",56029,Wyoming,Park,4/7/22,EA/AM H5N1 -  - ,0,1,24
+"WY, Platte",56031,Wyoming,Platte,1/9/23,EA/AM H5N1 -  - ,0,1,6
+"WY, Sheridan",56033,Wyoming,Sheridan,1/16/25,EA H5 -  - ,0,1,10
+"WY, Sublette",56035,Wyoming,Sublette,6/10/22,EA H5N1 -  - ,0,1,7
+"WY, Sweetwater",56037,Wyoming,Sweetwater,5/5/22,EA H5N1 -  - ,0,1,2
+"WY, Teton",56039,Wyoming,Teton,5/5/22,EA H5N1 -  - ,0,1,14
+"WY, Washakie",56043,Wyoming,Washakie,1/26/23,EA H5N1 -  - ,0,1,4

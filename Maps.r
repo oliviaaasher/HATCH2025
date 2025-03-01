@@ -6,9 +6,9 @@ library(leaflet)  #interactive maps
 library(htmltools) # Add html popups
 
 # Load CSV
-directory <- "/Users/oliviaasher/Library/Mobile Documents/com~apple~CloudDocs/bird_flu"
-birds_poultry <- read.csv(paste0(directory, "/bird_flu_poultry.csv"))
-birds_wildbirds <- read.csv(paste0(directory, "/bird_flu_wildbirds.csv"))
+directory <- "data/"
+birds_poultry <- read.csv(paste0(directory, "bird_flu_poultry.csv"))
+birds_wildbirds <- read.csv(paste0(directory, "bird_flu_wildbirds.csv"))
 
 # Get US county shapefile from `tigris`
 counties <- counties(cb = TRUE, resolution = "20m") %>%

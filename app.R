@@ -1,97 +1,100 @@
 options(shiny.autoreload = TRUE)
-# Install and load necessary packages
-packages <- c("shiny", "sf", "tigris", "dplyr", "leaflet", "htmltools", "shinyWidgets")
-new_packages <- packages[!(packages %in% installed.packages()[,"Package"])]
-if(length(new_packages)) install.packages(new_packages)
+# Install necessary packages if not installed
+# install.packages(c("shiny", "leaflet", "sf", "tigris", "dplyr", "htmltools"))
 
-lapply(packages, library, character.only = TRUE)
+library(shiny)
+library(leaflet)
+library(sf)
+library(tigris)
+library(dplyr)
+library(htmltools)
 
-# Load CSV
+# Load CSV Data
 directory <- "data/"
-file_paths <- list(poultry = paste0(directory, "bird_flu_poultry.csv"),
-                   wildbirds = paste0(directory, "bird_flu_wildbirds.csv"))
-bird_data <- lapply(file_paths, read.csv)
+birds_poultry <- read.csv(paste0(directory, "bird_flu_poultry.csv"))
+birds_wildbirds <- read.csv(paste0(directory, "bird_flu_wildbirds.csv"))
 
-# Get US county shapefile
-counties <- counties(cb = TRUE, resolution = "20m") %>% rename(FIPS = GEOID)
+# Get US county shapefile from `tigris`
+counties <- counties(cb = TRUE, resolution = "20m") %>%
+  rename(FIPS = GEOID)  # Match FIPS column for merging
 
-# Prepare data
-bird_data$poultry$FIPS <- as.character(bird_data$poultry$FIPS)
-geo_data <- merge(counties, bird_data$poultry, by = "FIPS") %>%
-  st_transform(crs = '+proj=longlat +datum=WGS84')
+# Ensure FIPS is a character for merging
+birds_poultry$FIPS <- as.character(birds_poultry$FIPS)
+birds_wildbirds$FIPS <- as.character(birds_wildbirds$FIPS)
 
-# Create a new Full Location column
-geo_data$FullGeoName <- paste0(geo_data$STUSPS, ", ", geo_data$NAME)
-geo_data$FullGeoNameAlt <- paste0(geo_data$NAME, ", ", geo_data$STUSPS)
+# Rename columns for wild bird data
+colnames(birds_wildbirds) <- c("FullGeoName.Wild", "FIPS", "State.Wild", "County.Wild", 
+                               "Date.Detected.Wild", "Strain.Type.Source.Wild", "States.Wild", 
+                               "Counties.Wild", "Totals.Wild")
 
-# UI
-title <- "FlockWatch"
+# Merge data with county geometries
+geo_data <- merge(counties, birds_poultry, by = "FIPS")
+point_data <- merge(counties, birds_wildbirds, by = "FIPS")
+
+# Transform object into the right format for R
+geo_data <- st_transform(geo_data, crs = '+proj=longlat +datum=WGS84')
+
+# Continuous color palette for poultry outbreaks
+pal <- colorNumeric(palette = "viridis", domain = geo_data$Flock.Size)
+
+# Popup information
+p_popup <- paste0("<strong>Outbreak number: </strong>", geo_data$Outbreaks, 
+                  "<br><strong>Flock Type: </strong>", geo_data$Flock.Type, 
+                  "<br><strong>Outbreak Date: </strong>", geo_data$Outbreak.Date)
+
+marker_popup <- paste0("<strong>Total Wild Birds Infected: </strong>", point_data$Totals.Wild, 
+                       "<br><strong>Strain Type: </strong>", point_data$Strain.Type.Source.Wild, 
+                       "<br><strong>Outbreak Date: </strong>", point_data$Date.Detected.Wild)
+
+# Generating Centroids for wild bird locations
+for (i in seq_len(nrow(point_data))) {
+  centroid <- st_centroid(point_data[i, 21]) # Assuming geometry is at column 21
+  if (i == 1) {
+    points <- centroid
+  } else {
+    points <- rbind(points, centroid)
+  }
+}
+lat_long <- as.data.frame(st_coordinates(points))
+colnames(lat_long) <- c("long", "lat")
+
+# Define UI
 ui <- fluidPage(
-  titlePanel(title),
-  sidebarLayout(
-    sidebarPanel(
-      textInput("location_input", "Enter Location (State, County or both)", ""),
-      h4("Statistical Analysis"),
-      verbatimTextOutput("correlation"),
-      verbatimTextOutput("chi_square")
-    ),
-    mainPanel(leafletOutput("map"))
-  )
+  titlePanel("Flock Watch - 'Track the birds. Protect your herd.'"),
+  leafletOutput("map", height = "700px")
 )
 
-# Server
+# Define Server
 server <- function(input, output, session) {
-  pal <- colorNumeric(palette = "viridis", domain = geo_data$Flock.Size)
-  
-  filtered_data <- reactive({
-    data <- geo_data
-    
-    if (input$location_input != "") {
-      data <- data[grepl(input$location_input, data$FullGeoName, ignore.case = TRUE) |
-                   grepl(input$location_input, data$FullGeoNameAlt, ignore.case = TRUE) |
-                   grepl(input$location_input, data$NAME, ignore.case = TRUE) |
-                   grepl(input$location_input, data$STUSPS, ignore.case = TRUE), ]
-    }
-    
-    data
-  })
-  
   output$map <- renderLeaflet({
-    leaflet(geo_data) %>%
+    leaflet() %>%
       addTiles() %>%
       setView(lng = -98.5795, lat = 39.8283, zoom = 4) %>%
-      addPolygons(data = geo_data, color = ~pal(Flock.Size), stroke = 0.1, opacity = 0.8,
-                  popup = ~paste0("<strong>Outbreak number: </strong>", Outbreaks, 
-                                 "<br><strong>Flock Type: </strong>", Flock.Type, 
-                                 "<br><strong>Outbreak Date: </strong>", Outbreak.Date)) %>%
-      addLegend('bottomleft', pal = pal, values = ~Flock.Size)
-  })
-  
-  observe({
-    data <- filtered_data()
-    if (input$location_input != "") {
-      if (nrow(data) > 0) {
-        centroids <- st_point_on_surface(data)
-        leafletProxy("map") %>%
-          clearShapes() %>%
-          addPolygons(data = geo_data, color = ~pal(Flock.Size), stroke = 0.1, opacity = 0.8,
-                      popup = ~paste0("<strong>Outbreak number: </strong>", Outbreaks, 
-                                     "<br><strong>Flock Type: </strong>", Flock.Type, 
-                                     "<br><strong>Outbreak Date: </strong>", Outbreak.Date)) %>%
-          flyTo(lng = mean(st_coordinates(centroids)[, 1]), 
-                lat = mean(st_coordinates(centroids)[, 2]), zoom = 8)
-      }
-    }
-  })
-  
-  output$correlation <- renderText({
-    paste("Pearson correlation: ", round(cor(geo_data$Flock.Size, geo_data$Outbreaks, method = "pearson"), 3))
-  })
-  
-  output$chi_square <- renderPrint({
-    chisq.test(table(geo_data$Flock.Size, geo_data$Outbreaks), simulate.p.value = TRUE)
+      addLegend("bottomleft", pal = pal, values = geo_data$Flock.Size, title = "Flock Size") %>% 
+      addMapPane("polygons", zIndex = 410) %>%
+      addMapPane("points", zIndex = 420) %>%
+      addCircleMarkers(data = lat_long,
+          group = "Wild Birds",
+          options = pathOptions(pane = "points"),
+          lat = lat_long$lat,
+          lng = lat_long$long,
+          radius = (point_data$Totals.Wild) / 50,
+          popup = marker_popup) %>%
+      addPolygons(weight = 1,
+                  group = "Flocks",
+                  options = pathOptions(pane = "polygons"),
+                  data = geo_data,
+                  color = pal(geo_data$Flock.Size),
+                  stroke = 0.1,
+                  opacity = 0.8,
+                  popup = p_popup,
+                  highlight = highlightOptions(weight = 2, color = "blue")) %>%
+      addLayersControl(
+        baseGroups = "Flocks",
+        overlayGroups = "Wild Birds",
+        options = layersControlOptions(collapsed = FALSE))
   })
 }
 
-# Run the application 
-shinyApp(ui = ui, server = server)
+# Run the app
+shinyApp(ui, server)

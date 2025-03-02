@@ -1,18 +1,18 @@
-options(shiny.autoreload = TRUE)
-# Install necessary packages if not installed
-# install.packages(c("shiny", "leaflet", "sf", "tigris", "dplyr", "htmltools"))
-
+library(here)
 library(shiny)
 library(leaflet)
 library(sf)
 library(tigris)
 library(dplyr)
 library(htmltools)
-
+addResourcePath('www','www')
 # Load CSV Data
 directory <- "data/"
 birds_poultry <- read.csv(paste0(directory, "bird_flu_poultry.csv"))
 birds_wildbirds <- read.csv(paste0(directory, "bird_flu_wildbirds.csv"))
+
+birds_poultry$FIPS <- sprintf("%05d", as.integer(birds_poultry$FIPS))
+birds_wildbirds$FIPS <- sprintf("%05d", as.integer(birds_wildbirds$FIPS))
 
 # Get US county shapefile from `tigris`
 counties <- counties(cb = TRUE, resolution = "20m") %>%
@@ -57,11 +57,19 @@ for (i in seq_len(nrow(point_data))) {
 }
 lat_long <- as.data.frame(st_coordinates(points))
 colnames(lat_long) <- c("long", "lat")
-
 # Define UI
 ui <- fluidPage(
   titlePanel("Flock Watch - 'Track the birds. Protect your herd.'"),
-  leafletOutput("map", height = "700px")
+  
+  sidebarLayout(
+    sidebarPanel(
+      p("To garner insight about what's occurring and to understand the relationships between various categories within the data, a Pearson's correlation was performed. Taking the Flock Size and Outbreak count into consideration, there was a weak, but positive correlation between these categories. So, it's safe to assume that the greater the flock size, the more outbreaks that occur. The bar plot highlights the number of outbreaks per region of the United States. The region with the most outbreaks was the West North Central region (North Dakota, South Dakota, Minnesota, Nebraska, Kansas, Missouri, Iowa)."),
+      tags$img(src = "img/bar_plot.jpg", width = "400px", height = "400px")
+    ),
+    mainPanel(
+      leafletOutput("map", height = "700px")
+    )
+  )
 )
 
 # Define Server

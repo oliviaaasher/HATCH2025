@@ -5,7 +5,8 @@ library(sf)
 library(tigris)
 library(dplyr)
 library(htmltools)
-addResourcePath('www','www')
+shiny::addResourcePath("www", "www")
+# addResourcePath('www','www')
 # Load CSV Data
 directory <- "data/"
 birds_poultry <- read.csv(paste0(directory, "bird_flu_poultry.csv"))
@@ -64,7 +65,7 @@ ui <- fluidPage(
   sidebarLayout(
     sidebarPanel(
       p("To garner insight about what's occurring and to understand the relationships between various categories within the data, a Pearson's correlation was performed. Taking the Flock Size and Outbreak count into consideration, there was a weak, but positive correlation between these categories. So, it's safe to assume that the greater the flock size, the more outbreaks that occur. The bar plot highlights the number of outbreaks per region of the United States. The region with the most outbreaks was the West North Central region (North Dakota, South Dakota, Minnesota, Nebraska, Kansas, Missouri, Iowa)."),
-      tags$img(src = "img/bar_plot.jpg", width = "400px", height = "400px")
+      # img(src = normalizePath("www/barplot.jpg"), width = "400px", height = "400px")
     ),
     mainPanel(
       leafletOutput("map", height = "700px")
@@ -74,6 +75,7 @@ ui <- fluidPage(
 
 # Define Server
 server <- function(input, output, session) {
+  
   output$map <- renderLeaflet({
     leaflet() %>%
       addTiles() %>%
